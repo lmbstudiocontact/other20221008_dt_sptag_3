@@ -1,0 +1,89 @@
+{
+  "id_sptag": "557879468",
+  "index_page": 0,
+  "name_cl_sptag": "Light Bulb",
+  "name_parent": "Anime",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-1073361485",
+  "hc_lt_nortag": "-1611756643",
+  "hc_lt_sptag": "956744992",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "510479324",
+      "hc_lt_id_sptag": "66878358",
+      "id_img": "Original_825213_crop2608_796164377",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid/0XuiyNhdlSGWMr/eOb9GhDInyxk1ySO2eh+8QOz2b5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid/0XuiyNhdlSGWMr/eOb9GjsxML2xJdr+4tPxQxBvUu5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1680016906",
+        "136109599"
+      ],
+      "lt_id_sptag": [
+        "-56780627",
+        "325835566",
+        "557879468",
+        "-1331370225",
+        "-891062648"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "136109599",
+      "name_cl_nortag": "Original 5",
+      "total_img": 820,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1680016906",
+      "name_cl_nortag": "Scenery Arts",
+      "total_img": 2036,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-56780627",
+      "name_cl_sptag": "Building",
+      "name_parent": "Anime",
+      "total": 43
+    },
+    {
+      "id_sptag": "325835566",
+      "name_cl_sptag": "Cloud",
+      "name_parent": "Anime",
+      "total": 163
+    },
+    {
+      "id_sptag": "557879468",
+      "name_cl_sptag": "Light Bulb",
+      "name_parent": "Anime",
+      "total": 1
+    },
+    {
+      "id_sptag": "-891062648",
+      "name_cl_sptag": "Shooting Star",
+      "name_parent": "Anime",
+      "total": 9
+    },
+    {
+      "id_sptag": "-1331370225",
+      "name_cl_sptag": "Sunset",
+      "name_parent": "Anime",
+      "total": 51
+    }
+  ]
+}

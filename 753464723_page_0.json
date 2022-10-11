@@ -1,0 +1,89 @@
+{
+  "id_sptag": "753464723",
+  "index_page": 0,
+  "name_cl_sptag": "Lil WIXOSS",
+  "name_parent": "Anime",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "117148759",
+  "hc_lt_nortag": "-772467129",
+  "hc_lt_sptag": "1765951612",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1302163415",
+      "hc_lt_id_sptag": "-1685441779",
+      "id_img": "WIXOSS_956715_crop2608_-761475863",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifCdIV+rLSS5wYgKNGP1D0K4Hg26EOL3vRWxasD4o4L3JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifCdIV+rLSS5wYgKNGP1D0KfE4Pd8PSGx0MyEdQKKEePpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1084924802",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "775826122",
+        "1627623413",
+        "-260062140",
+        "753464723",
+        "1410951528"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "1084924802",
+      "name_cl_nortag": "WIXOSS",
+      "total_img": 9,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "775826122",
+      "name_cl_sptag": "Coin",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "1627623413",
+      "name_cl_sptag": "Girls Hair Red",
+      "name_parent": "Anime",
+      "total": 3081
+    },
+    {
+      "id_sptag": "1410951528",
+      "name_cl_sptag": "Girls Short Hair",
+      "name_parent": "Anime",
+      "total": 23769
+    },
+    {
+      "id_sptag": "-260062140",
+      "name_cl_sptag": "Girls Uniform",
+      "name_parent": "Anime",
+      "total": 16929
+    },
+    {
+      "id_sptag": "753464723",
+      "name_cl_sptag": "Lil WIXOSS",
+      "name_parent": "Anime",
+      "total": 1
+    }
+  ]
+}

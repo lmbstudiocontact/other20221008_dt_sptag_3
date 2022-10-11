@@ -1,0 +1,129 @@
+{
+  "id_sptag": "9480152",
+  "index_page": 0,
+  "name_cl_sptag": "Ikoma Koutetsujou no Kabaneri",
+  "name_parent": "Anime",
+  "total_img": 4,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "475930973",
+  "hc_lt_nortag": "1874694227",
+  "hc_lt_sptag": "-585639455",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-634485426",
+      "hc_lt_id_sptag": "892821124",
+      "id_img": "KabanerioftheIronFortress_701379_crop2608_-1618230255",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieojJwV3tl9J2CPZKWx1SdHQO+8lnnANy5NLiswPtWA8JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieojJwV3tl9J2CPZKWx1SdHGdjkgXchiRHjTnhWpqYaQpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-2015079244"
+      ],
+      "lt_id_sptag": [
+        "931018525",
+        "9480152"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-2111225535",
+      "hc_lt_id_sptag": "993917602",
+      "id_img": "KabanerioftheIronFortress_693170_crop2608_-1308579474",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQPydDAmB5PT1igaB1N7o5UziAlq+hePAqlpfoTrG+PJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQPydDAmB5PT1igaB1N7o5n4kmF32Ily9V1c6QKZaba5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-2015079244"
+      ],
+      "lt_id_sptag": [
+        "9480152",
+        "1163849716"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-634485426",
+      "hc_lt_id_sptag": "993917602",
+      "id_img": "KabanerioftheIronFortress_693170_crop2608_1690540324",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidad3GZslYPZ9zzc0RuX7pVFV2Bd2F00tvEIp8pLUyRyZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidad3GZslYPZ9zzc0RuX7pVlMSDbZjUgxAgJa1IHcb+MZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-2015079244"
+      ],
+      "lt_id_sptag": [
+        "9480152",
+        "1163849716"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-2111225535",
+      "hc_lt_id_sptag": "892821124",
+      "id_img": "KabanerioftheIronFortress_691917_crop2608_-641693243",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicjwqOI6/AfPN4l0nNwDEDgk2vAV7FnZZxJqzOTHJzrMpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicjwqOI6/AfPN4l0nNwDEDgERVbxvvbUce0HqepManAOpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-2015079244"
+      ],
+      "lt_id_sptag": [
+        "931018525",
+        "9480152"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-467032699",
+      "name_cl_nortag": "Boy",
+      "total_img": 8592,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-2015079244",
+      "name_cl_nortag": "Kabaneri of the Iron Fortress",
+      "total_img": 51,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "1163849716",
+      "name_cl_sptag": "Ayame Yomogawa",
+      "name_parent": "Anime",
+      "total": 12
+    },
+    {
+      "id_sptag": "9480152",
+      "name_cl_sptag": "Ikoma Koutetsujou no Kabaneri",
+      "name_parent": "Anime",
+      "total": 4
+    },
+    {
+      "id_sptag": "931018525",
+      "name_cl_sptag": "Mumei Kabaneri of the Iron Fortress",
+      "name_parent": "Anime",
+      "total": 45
+    }
+  ]
+}

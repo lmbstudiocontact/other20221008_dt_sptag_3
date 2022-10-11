@@ -1,0 +1,54 @@
+{
+  "id_sptag": "628981477",
+  "index_page": 0,
+  "name_cl_sptag": "KK Blood Blockade Battlefront",
+  "name_parent": "Anime",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "376824174",
+  "hc_lt_nortag": "-1770182792",
+  "hc_lt_sptag": "-385184930",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "108094141",
+      "hc_lt_id_sptag": "-2026400771",
+      "id_img": "BloodBlockadeBattlefront_970833_crop2608_292394997",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid71qLCZktXneIj0MTGdWYPJco0t9xFD5rAV3f+Bmw5yZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid71qLCZktXneIj0MTGdWYPtCMR0he0H/MciS/el1mrgJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1622629413"
+      ],
+      "lt_id_sptag": [
+        "628981477"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1622629413",
+      "name_cl_nortag": "Blood Blockade Battlefront",
+      "total_img": 27,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "628981477",
+      "name_cl_sptag": "KK Blood Blockade Battlefront",
+      "name_parent": "Anime",
+      "total": 1
+    }
+  ]
+}

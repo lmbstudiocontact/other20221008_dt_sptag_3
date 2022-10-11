@@ -1,0 +1,71 @@
+{
+  "id_sptag": "371627336",
+  "index_page": 0,
+  "name_cl_sptag": "King Hassan",
+  "name_parent": "Anime",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "747723355",
+  "hc_lt_nortag": "-1305762109",
+  "hc_lt_sptag": "-852657236",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1594075909",
+      "hc_lt_id_sptag": "1511270311",
+      "id_img": "FateGrandOrder_790428_crop2608_1515353635",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicynFfdZvbNT/q9K8lkxLacpz7gmOs5wUog9aEMLsITx5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicynFfdZvbNT/q9K8lkxLacLbJzPT1ovm4o0oini+oeqJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-784538297"
+      ],
+      "lt_id_sptag": [
+        "371627336"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1594075909",
+      "hc_lt_id_sptag": "1511270311",
+      "id_img": "FateGrandOrder_793159_crop2608_-929661817",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieyoCQH2mHIIGbcsgrJLqbKggjnTFm4vb54STxe56dW3JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieyoCQH2mHIIGbcsgrJLqbKlXzbcxkhg3gDNVzpLLMNjZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-784538297"
+      ],
+      "lt_id_sptag": [
+        "371627336"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-784538297",
+      "name_cl_nortag": "FateGrand Order",
+      "total_img": 646,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "371627336",
+      "name_cl_sptag": "King Hassan",
+      "name_parent": "Anime",
+      "total": 2
+    }
+  ]
+}

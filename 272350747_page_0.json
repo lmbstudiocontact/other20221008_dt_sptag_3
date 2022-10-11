@@ -1,0 +1,605 @@
+{
+  "id_sptag": "272350747",
+  "index_page": 0,
+  "name_cl_sptag": "Mercedes A-Class",
+  "name_parent": "Car",
+  "total_img": 22,
+  "total_page": 0,
+  "hc_lt_alb": "51650555",
+  "hc_lt_data_img": "1955701596",
+  "hc_lt_nortag": "1724472592",
+  "hc_lt_sptag": "-952638024",
+  "lt_alb": [
+    {
+      "id_alb": "67508",
+      "name_alb": "Car",
+      "total_img": 21900
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "-725063754",
+      "id_img": "2013-Mercedes-Benz-A-Class-V4-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifLJbd2RkPtrh9MkWewpFbTZ/FDZPyO5ng2HxdeV5tuvpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifLJbd2RkPtrh9MkWewpFbTq1kFkqhUQ3e+2xrZZZa3apVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "-1950586279",
+        "-1339099097",
+        "272350747"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "342495601",
+      "id_img": "2014-Mercedes-Benz-A45-AMG-V7-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidoQud0xAPQaEtdBJ8iSc7gA4NRFucHI8k5gtIL3cSnNJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidoQud0xAPQaEtdBJ8iSc7gBgzO/OOWnb67sG40dvFFNZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "-1949662758",
+        "272350747",
+        "-268148854"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "740309565",
+      "id_img": "2013-Mercedes-Benz-A-Class-V1-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifNIerYQmmL+nSqfQ2hHcIxNwxv2UQm2WqQ+Tvqb9FEL5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifNIerYQmmL+nSqfQ2hHcIx0SlTyQ2gUPfCV8746JpdZJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "-1950586279",
+        "272350747",
+        "-749558582"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "160655157",
+      "id_img": "2020-Mercedes-AMG-A45-V6-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifRamRwFc1VISKI0aDnuDtzxqpwogNBVQFGqq1Ec/DfG5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifRamRwFc1VISKI0aDnuDtz9MfxUBJBdKIDTyI3h8rbPpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "1700398783",
+        "272350747",
+        "-1924727691"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "-1937675872",
+      "id_img": "2020-Mercedes-AMG-A45-V11-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiickoRVdw4JNpqlT3EtUGaPTbiWfcUOCMn+DjOyIXSLgK5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiickoRVdw4JNpqlT3EtUGaPTihs71gp4Iq1RSkDsvF05MJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "272350747",
+        "-1924727691",
+        "-1333098199"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "-1581866578",
+      "id_img": "2019-Mercedes-AMG-A35-V5-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie41ZEC9cD7S5Ku6VqcuJEtKW065baM+zYClxG+jQ3sF5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie41ZEC9cD7S5Ku6VqcuJEtrm2FlqMZ7MkmTDGOXU/ZJZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "272350747",
+        "837633701",
+        "-1945045153"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "-1405484896",
+      "id_img": "2016-Mercedes-Benz-A45-AMG-4Matic-V1-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic3NSY6QqtTqeVVUbi3hoGAaQV5D8T0VVC19G0om16CX5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic3NSY6QqtTqeVVUbi3hoGAN6KwED2vmN4aTbwRR7JejJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "272350747",
+        "910932176",
+        "-1947815716"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "-212264909",
+      "id_img": "2014-Mercedes-Benz-A45-AMG-V9-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiekXOfX5ZBRiZuGb+W6Lg1huJoojklEt/OrBzU5fAqq0pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiekXOfX5ZBRiZuGb+W6Lg1hrAB7gLGruLHqMJt+WIYA9JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "-1949662758",
+        "272350747",
+        "-661175864"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "267994852",
+      "id_img": "2016-Mercedes-Benz-A45-AMG-4Matic-V5-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgzPDGzy4ftJVSxfIxsCdTgC9ko1845CWsSHpdpavkk5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgzPDGzy4ftJVSxfIxsCdTA7MnyXQFO0IKDESpm6ojU5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "272350747",
+        "124878156",
+        "-1947815716"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "-109229493",
+      "id_img": "2019-Mercedes-AMG-A35-V2-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidL7aC2Tq6bhM6+I/XdBZ001sTwIVic1UmOJG6LAOSWaZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidL7aC2Tq6bhM6+I/XdBZ00/OtWgIPVyIzxXIQXqiMI2ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "1427174216",
+        "272350747",
+        "-1945045153"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "1815702219",
+      "id_img": "2020-Mercedes-AMG-A45-V5-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieqWj91srS8vsyZZo1eyyGoYLM2ENqe+/mTCeT4kxZeV5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieqWj91srS8vsyZZo1eyyGoLkISsXnzZ5KCX8VXykKDcZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "1896912288",
+        "272350747",
+        "-1924727691"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "-1872865576",
+      "id_img": "2014-Mercedes-Benz-A45-AMG-V1-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif75OSAeTSZxR7Hppk19E2kFgb+rRabkLk0YFqTX0tNSpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif75OSAeTSZxR7Hppk19E2k0UUQR3q4QHkjYVwHU/qVc5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "-1949662758",
+        "272350747",
+        "910932176"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "-2112818625",
+      "id_img": "2019-Mercedes-AMG-A35-V3-2000_crop_1_left",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQoJ2dTNC2OVYe673DsGvcB33AXJPJ59Ptj6Iy3/gnD5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQoJ2dTNC2OVYe673DsGvcrieXWBSUe22rzG4nYZcq4pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "1230660711",
+        "272350747",
+        "-1945045153"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "-141538028",
+      "id_img": "2013-Mercedes-Benz-A-Class-V6-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVjn3FzxN60GZTUd3jvLZEiEXRgFkLrcnW/yHXFOXdVpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVjn3FzxN60GZTUd3jvLZExCC3yeTsiG9akGKBA7eOJpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "-1950586279",
+        "-1732126107",
+        "272350747"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "-1383625367",
+      "id_img": "2013-Mercedes-Benz-A-Class-V2-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicv/6INHS/otv3Lbquts75dh5gfry39ScUjNgnRV7lvF5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicv/6INHS/otv3Lbquts75dXrCp+kIXH1U6Qr75OI8V3ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "-1950586279",
+        "272350747",
+        "-946072087"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "1724366572",
+      "id_img": "2016-Mercedes-Benz-A45-AMG-4Matic-V3-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifKwaOOWj3kXFJOiZmK0sOlkB+eIfRCjhTEdP5a4Aytr5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifKwaOOWj3kXFJOiZmK0sOlIqBfAibnNl6aJrJJ6CQtsJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "517905166",
+        "272350747",
+        "-1947815716"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "-732304988",
+      "id_img": "2014-Mercedes-Benz-A45-AMG-V3-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifoExcoQj7yfImAGNL7IeNGAJ61brcZhBbbaIUf+8RWl5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifoExcoQj7yfImAGNL7IeNGsTBLl5l3yz8SeS269epDsJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "517905166",
+        "-1949662758",
+        "272350747"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "1137837854",
+      "id_img": "2019-Mercedes-AMG-A35-V4-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifWNRm75RQUoVpyolovuYOOmfDagrRMIc6OLjBXU36z95Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifWNRm75RQUoVpyolovuYOO2/A0F0IeWqG6q4YeEiXT3ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "1034147206",
+        "272350747",
+        "-1945045153"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "-692158841",
+      "id_img": "2020-Mercedes-AMG-A45-V9-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiein0j7Q53xsE8y68mWI78Kkyj14gfsvhQl4wZjT3M74JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiein0j7Q53xsE8y68mWI78KuFp5ayD29vigNpWi9djFKpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "272350747",
+        "-1924727691",
+        "1110858268"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "226535009",
+      "id_img": "2020-Mercedes-AMG-A45-V4-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidUwjlZgiUBhHqcnp08sDaaAZ9OUT49umPDTKs8fKzXfZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidUwjlZgiUBhHqcnp08sDaaN4PqwM2nylb0dCzCw79tMZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "272350747",
+        "-1924727691",
+        "2093425793"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "-1806189364",
+      "id_img": "2020-Mercedes-AMG-A45-V12-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6K3+X+PxC8Mg5iyXLtyjk0aBVb0aqKFt0WyL8irYF4ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6K3+X+PxC8Mg5iyXLtyjkvdddSc0Bfs/oXYpMwNIU1ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "272350747",
+        "-1924727691",
+        "-1529611704"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "333869153",
+      "id_img": "2019-Mercedes-AMG-A35-V1-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQvHPaA4Lj6LTvgjPdU4jndYFePiM5AWxrk+Nb5BEUS5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQvHPaA4Lj6LTvgjPdU4jnDoymnTpo886UJY4s0C/m85Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "1623687721",
+        "272350747",
+        "-1945045153"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-2039294609",
+      "name_cl_nortag": "Mercedes",
+      "total_img": 1380,
+      "name_parent": "Car"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1950586279",
+      "name_cl_sptag": "2013",
+      "name_parent": "Car",
+      "total": 637
+    },
+    {
+      "id_sptag": "-1949662758",
+      "name_cl_sptag": "2014",
+      "name_parent": "Car",
+      "total": 557
+    },
+    {
+      "id_sptag": "-1947815716",
+      "name_cl_sptag": "2016",
+      "name_parent": "Car",
+      "total": 741
+    },
+    {
+      "id_sptag": "-1945045153",
+      "name_cl_sptag": "2019",
+      "name_parent": "Car",
+      "total": 582
+    },
+    {
+      "id_sptag": "-1924727691",
+      "name_cl_sptag": "2020",
+      "name_parent": "Car",
+      "total": 476
+    },
+    {
+      "id_sptag": "272350747",
+      "name_cl_sptag": "Mercedes A-Class",
+      "name_parent": "Car",
+      "total": 22
+    },
+    {
+      "id_sptag": "-749558582",
+      "name_cl_sptag": "V1-1440",
+      "name_parent": "Car",
+      "total": 747
+    },
+    {
+      "id_sptag": "910932176",
+      "name_cl_sptag": "V1-1600",
+      "name_parent": "Car",
+      "total": 515
+    },
+    {
+      "id_sptag": "1623687721",
+      "name_cl_sptag": "V1-2000",
+      "name_parent": "Car",
+      "total": 384
+    },
+    {
+      "id_sptag": "-1333098199",
+      "name_cl_sptag": "V11-2160",
+      "name_parent": "Car",
+      "total": 27
+    },
+    {
+      "id_sptag": "-1529611704",
+      "name_cl_sptag": "V12-2160",
+      "name_parent": "Car",
+      "total": 19
+    },
+    {
+      "id_sptag": "-946072087",
+      "name_cl_sptag": "V2-1440",
+      "name_parent": "Car",
+      "total": 394
+    },
+    {
+      "id_sptag": "1427174216",
+      "name_cl_sptag": "V2-2000",
+      "name_parent": "Car",
+      "total": 219
+    },
+    {
+      "id_sptag": "517905166",
+      "name_cl_sptag": "V3-1600",
+      "name_parent": "Car",
+      "total": 381
+    },
+    {
+      "id_sptag": "1230660711",
+      "name_cl_sptag": "V3-2000",
+      "name_parent": "Car",
+      "total": 278
+    },
+    {
+      "id_sptag": "-1339099097",
+      "name_cl_sptag": "V4-1440",
+      "name_parent": "Car",
+      "total": 254
+    },
+    {
+      "id_sptag": "1034147206",
+      "name_cl_sptag": "V4-2000",
+      "name_parent": "Car",
+      "total": 216
+    },
+    {
+      "id_sptag": "2093425793",
+      "name_cl_sptag": "V4-2160",
+      "name_parent": "Car",
+      "total": 129
+    },
+    {
+      "id_sptag": "124878156",
+      "name_cl_sptag": "V5-1600",
+      "name_parent": "Car",
+      "total": 267
+    },
+    {
+      "id_sptag": "837633701",
+      "name_cl_sptag": "V5-2000",
+      "name_parent": "Car",
+      "total": 229
+    },
+    {
+      "id_sptag": "1896912288",
+      "name_cl_sptag": "V5-2160",
+      "name_parent": "Car",
+      "total": 131
+    },
+    {
+      "id_sptag": "-1732126107",
+      "name_cl_sptag": "V6-1440",
+      "name_parent": "Car",
+      "total": 200
+    },
+    {
+      "id_sptag": "1700398783",
+      "name_cl_sptag": "V6-2160",
+      "name_parent": "Car",
+      "total": 98
+    },
+    {
+      "id_sptag": "-268148854",
+      "name_cl_sptag": "V7-1600",
+      "name_parent": "Car",
+      "total": 98
+    },
+    {
+      "id_sptag": "-661175864",
+      "name_cl_sptag": "V9-1600",
+      "name_parent": "Car",
+      "total": 89
+    },
+    {
+      "id_sptag": "1110858268",
+      "name_cl_sptag": "V9-2160",
+      "name_parent": "Car",
+      "total": 32
+    }
+  ]
+}

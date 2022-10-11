@@ -1,0 +1,149 @@
+{
+  "id_sptag": "-1038951395",
+  "index_page": 0,
+  "name_cl_sptag": "Kurenai Yuhi",
+  "name_parent": "Anime",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "447689722",
+  "hc_lt_nortag": "-1353539246",
+  "hc_lt_sptag": "-2069583904",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "551849679",
+      "hc_lt_id_sptag": "1855692807",
+      "id_img": "Naruto_772898_crop2608_1004522757",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiex3N7urFKraWC+Hk0QBMX8t+Refv+vUTIggEjXypy4h5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiex3N7urFKraWC+Hk0QBMX8EyBwIJlGH/y8bYTWiSCXGZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-273690518"
+      ],
+      "lt_id_sptag": [
+        "759287130",
+        "-1282606609",
+        "695887242",
+        "-1841922252",
+        "234873805",
+        "-76581541",
+        "6278890",
+        "120588791",
+        "636212748",
+        "707334961",
+        "-1038951395",
+        "-1777120776"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "551849679",
+      "hc_lt_id_sptag": "-580254384",
+      "id_img": "Naruto_715453_crop2608_761210391",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicd7uFCfGgVMZXTLxze0JUU0CjkHZ44ODNiBQKaa8L505Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicd7uFCfGgVMZXTLxze0JUU/an0B7mVHhJegG/9yRIBHpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-273690518"
+      ],
+      "lt_id_sptag": [
+        "-1038951395",
+        "-1777120776"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-273690518",
+      "name_cl_nortag": "Naruto",
+      "total_img": 478,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1777120776",
+      "name_cl_sptag": "Hinata Hyuga",
+      "name_parent": "Anime",
+      "total": 54
+    },
+    {
+      "id_sptag": "-1841922252",
+      "name_cl_sptag": "Ino Yamanaka",
+      "name_parent": "Anime",
+      "total": 15
+    },
+    {
+      "id_sptag": "707334961",
+      "name_cl_sptag": "Kakashi Hatake",
+      "name_parent": "Anime",
+      "total": 99
+    },
+    {
+      "id_sptag": "-1038951395",
+      "name_cl_sptag": "Kurenai Yuhi",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "-76581541",
+      "name_cl_sptag": "Might Guy",
+      "name_parent": "Anime",
+      "total": 14
+    },
+    {
+      "id_sptag": "636212748",
+      "name_cl_sptag": "Naruto Uzumaki",
+      "name_parent": "Anime",
+      "total": 292
+    },
+    {
+      "id_sptag": "234873805",
+      "name_cl_sptag": "Neji Hyuga",
+      "name_parent": "Anime",
+      "total": 21
+    },
+    {
+      "id_sptag": "6278890",
+      "name_cl_sptag": "Rock Lee",
+      "name_parent": "Anime",
+      "total": 23
+    },
+    {
+      "id_sptag": "-1282606609",
+      "name_cl_sptag": "Sakura Haruno",
+      "name_parent": "Anime",
+      "total": 93
+    },
+    {
+      "id_sptag": "120588791",
+      "name_cl_sptag": "Sasuke Uchiha",
+      "name_parent": "Anime",
+      "total": 154
+    },
+    {
+      "id_sptag": "759287130",
+      "name_cl_sptag": "Shikamaru Nara",
+      "name_parent": "Anime",
+      "total": 23
+    },
+    {
+      "id_sptag": "695887242",
+      "name_cl_sptag": "Tenten Naruto",
+      "name_parent": "Anime",
+      "total": 9
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "id_sptag": "2039376717",
+  "index_page": 0,
+  "name_cl_sptag": "Mercedes GLC",
+  "name_parent": "Car",
+  "total_img": 12,
+  "total_page": 0,
+  "hc_lt_alb": "51650555",
+  "hc_lt_data_img": "831909863",
+  "hc_lt_nortag": "1724472592",
+  "hc_lt_sptag": "1688532502",
+  "lt_alb": [
+    {
+      "id_alb": "67508",
+      "name_alb": "Car",
+      "total_img": 21900
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "154664034",
+      "id_img": "2018-Mercedes-Benz-GLC63-S-AMG-V4-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifIlbIsjN8RybqwSACcfJd/eJtduxsp1jysPSnFGg7+FZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifIlbIsjN8RybqwSACcfJd/27Y29WdIqjqZULfi2IpntJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "1034147206",
+        "2039376717",
+        "-1945968674"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "1616320660",
+      "id_img": "2015-Mercedes-Benz-GLC-Coupe-Concept-V1-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCERippAL9ljDjiWbEXUn1wIibblCTi04J6rDegmoHRJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCERippAL9ljDjiWbEXUn1rFL6hHg01yCvgk/wciRPwJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "-895678569",
+        "910932176",
+        "-1948739237",
+        "2039376717",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "-1092403313",
+      "id_img": "2018-Mercedes-Benz-GLC63-S-AMG-V2-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieNfoYRhfVA/JGqIWTkulvvFVQEAyLrKsDp75KZ9LWvLJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieNfoYRhfVA/JGqIWTkulvv3U4Rp2CZaxFRN/KbBtfb45Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "1427174216",
+        "2039376717",
+        "-1945968674"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "-2095365157",
+      "id_img": "2018-Mercedes-Benz-GLC63-S-AMG-V8-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic3o05lmcD0R8Tmy5gLaApz402hutTPgkMj/wxrYm32XZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic3o05lmcD0R8Tmy5gLaApzW2BgdgdZ91TfulJE9towRpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "2039376717",
+        "-1945968674",
+        "248093186"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "174591652",
+      "id_img": "2018-Mercedes-Benz-GLC63-S-AMG-V7-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieLlkhTRNRSuPkpO6k49CEAdAurgQRdqNubNpCz2DH9aJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieLlkhTRNRSuPkpO6k49CEA6lqnXPeRleR6ux4T3i9g45Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "444606691",
+        "2039376717",
+        "-1945968674"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "-817412400",
+      "id_img": "2018-Mercedes-Benz-GLC63-S-AMG-V6-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifBwjMomd2ZCU5Myi0k0GMf8cEzpTRiYN6RIPVTmjZ/BpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifBwjMomd2ZCU5Myi0k0GMfhxqnyLKYzG2foevZ2jsQCZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "641120196",
+        "2039376717",
+        "-1945968674"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "-649304667",
+      "id_img": "2018-Mercedes-Benz-GLC63-S-AMG-V1-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic9Mtcg0EIV8Q8JMb+HYs1ZrnH3VrOG5SdeQGGttpJpUZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic9Mtcg0EIV8Q8JMb+HYs1ZLJ7MmoCWcr1eBS7CIvphgZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "1623687721",
+        "2039376717",
+        "-1945968674"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "1644392306",
+      "id_img": "2015-Mercedes-Benz-GLC-Coupe-Concept-V5-1600_crop_3_right",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieniqkA9WymZdnEuStPC9nic80P3wsnnl2SDXW/K85/hJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieniqkA9WymZdnEuStPC9niE8XgExbM6y77DTEkFSjumpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "-895678569",
+        "-1948739237",
+        "2039376717",
+        "124878156",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "158538722",
+      "id_img": "2015-Mercedes-Benz-GLC-Coupe-Concept-V3-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxbBRexqit2RRcwHb8D59CAm6IhBaCgDSTfTOB3S9wtJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxbBRexqit2RRcwHb8D59CSVF71K36n2Lx3844FmeJAJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "517905166",
+        "-895678569",
+        "-1948739237",
+        "2039376717",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "942758915",
+      "id_img": "2015-Mercedes-Benz-GLC-Coupe-Concept-V2-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6iE6beu/1w5QkktfiD2MQt85EEYoloKlUOJvPjps/LpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6iE6beu/1w5QkktfiD2MQXjEuvOnSqKwn1Upbdc/VmJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "714418671",
+        "-895678569",
+        "-1948739237",
+        "2039376717",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "551118594",
+      "id_img": "2015-Mercedes-Benz-GLC-Coupe-Concept-V4-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic3HXbJot639Fi4lqeGL0XiZ2V7hqPWZ7y6ZLywEM0Xs5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic3HXbJot639Fi4lqeGL0Xiun1X7oP3k7xpo6h7C2F5npVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "-895678569",
+        "-1948739237",
+        "2039376717",
+        "1773147073",
+        "321391661"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-2129824510",
+      "hc_lt_id_sptag": "-842590921",
+      "id_img": "2015-Mercedes-Benz-GLC-Coupe-Concept-V6-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifVe9C4I1rQKtC7v2bZ6hoK1yVQNcDQbN9WvSa9kfp885Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifVe9C4I1rQKtC7v2bZ6hoKgQh+/IHB9dNIaFSIPN9KH5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2039294609"
+      ],
+      "lt_id_sptag": [
+        "-895678569",
+        "-1948739237",
+        "2039376717",
+        "-71635349",
+        "1773147073"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-2039294609",
+      "name_cl_nortag": "Mercedes",
+      "total_img": 1380,
+      "name_parent": "Car"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1948739237",
+      "name_cl_sptag": "2015",
+      "name_parent": "Car",
+      "total": 885
+    },
+    {
+      "id_sptag": "-1945968674",
+      "name_cl_sptag": "2018",
+      "name_parent": "Car",
+      "total": 588
+    },
+    {
+      "id_sptag": "1773147073",
+      "name_cl_sptag": "Concept",
+      "name_parent": "Car",
+      "total": 1117
+    },
+    {
+      "id_sptag": "-895678569",
+      "name_cl_sptag": "Coupe",
+      "name_parent": "Car",
+      "total": 324
+    },
+    {
+      "id_sptag": "2039376717",
+      "name_cl_sptag": "Mercedes GLC",
+      "name_parent": "Car",
+      "total": 12
+    },
+    {
+      "id_sptag": "910932176",
+      "name_cl_sptag": "V1-1600",
+      "name_parent": "Car",
+      "total": 515
+    },
+    {
+      "id_sptag": "1623687721",
+      "name_cl_sptag": "V1-2000",
+      "name_parent": "Car",
+      "total": 384
+    },
+    {
+      "id_sptag": "714418671",
+      "name_cl_sptag": "V2-1600",
+      "name_parent": "Car",
+      "total": 274
+    },
+    {
+      "id_sptag": "1427174216",
+      "name_cl_sptag": "V2-2000",
+      "name_parent": "Car",
+      "total": 219
+    },
+    {
+      "id_sptag": "517905166",
+      "name_cl_sptag": "V3-1600",
+      "name_parent": "Car",
+      "total": 381
+    },
+    {
+      "id_sptag": "321391661",
+      "name_cl_sptag": "V4-1600",
+      "name_parent": "Car",
+      "total": 248
+    },
+    {
+      "id_sptag": "1034147206",
+      "name_cl_sptag": "V4-2000",
+      "name_parent": "Car",
+      "total": 216
+    },
+    {
+      "id_sptag": "124878156",
+      "name_cl_sptag": "V5-1600",
+      "name_parent": "Car",
+      "total": 267
+    },
+    {
+      "id_sptag": "-71635349",
+      "name_cl_sptag": "V6-1600",
+      "name_parent": "Car",
+      "total": 195
+    },
+    {
+      "id_sptag": "641120196",
+      "name_cl_sptag": "V6-2000",
+      "name_parent": "Car",
+      "total": 143
+    },
+    {
+      "id_sptag": "444606691",
+      "name_cl_sptag": "V7-2000",
+      "name_parent": "Car",
+      "total": 91
+    },
+    {
+      "id_sptag": "248093186",
+      "name_cl_sptag": "V8-2000",
+      "name_parent": "Car",
+      "total": 86
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id_sptag": "-504740731",
+  "index_page": 0,
+  "name_cl_sptag": "Maki Oze",
+  "name_parent": "Anime",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "1132410422",
+  "hc_lt_nortag": "-191995385",
+  "hc_lt_sptag": "-411955488",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-733107923",
+      "hc_lt_id_sptag": "-189148034",
+      "id_img": "FireForce_1000700_crop2608_1408580946",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHBR8XxkD9wD7rhc/t8ioTG+NdH4ERbCEHzVviRLWnrpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHBR8XxkD9wD7rhc/t8ioTBRmGOC33f9GYEyI2P4ut8JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-2141197158"
+      ],
+      "lt_id_sptag": [
+        "68567383",
+        "-504740731",
+        "-71970585",
+        "944352385",
+        "-867018143"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1912389845",
+      "hc_lt_id_sptag": "250203133",
+      "id_img": "FireForce_1031100_crop2608_-224829860",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8KYWIdHj9mfARssOuk9AsCIRehStk+GE+hmsvW0XSnZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8KYWIdHj9mfARssOuk9AsDgSpGm0psVYnyRQf6efSjJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-2141197158",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-504740731",
+        "117222074",
+        "-353024394",
+        "-1686571485",
+        "467732324"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-733107923",
+      "hc_lt_id_sptag": "-189148034",
+      "id_img": "FireForce_720685_crop2608_-1052514310",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieiPGXvS6Z6xlMZZQjlmhJzHZWZVSbfnzPmh0WfQW5J0ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieiPGXvS6Z6xlMZZQjlmhJzMyz/NPwPqD8oZa6pxLH7m5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-2141197158"
+      ],
+      "lt_id_sptag": [
+        "68567383",
+        "-504740731",
+        "-71970585",
+        "944352385",
+        "-867018143"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-2141197158",
+      "name_cl_nortag": "Fire Force",
+      "total_img": 17,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "68567383",
+      "name_cl_sptag": "Akitaru Oubi",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "467732324",
+      "name_cl_sptag": "Girls Eyes Pink",
+      "name_parent": "Anime",
+      "total": 1874
+    },
+    {
+      "id_sptag": "-1686571485",
+      "name_cl_sptag": "Girls Hair Black",
+      "name_parent": "Anime",
+      "total": 16737
+    },
+    {
+      "id_sptag": "117222074",
+      "name_cl_sptag": "Girls Hats",
+      "name_parent": "Anime",
+      "total": 11965
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-71970585",
+      "name_cl_sptag": "Iris Fire Force",
+      "name_parent": "Anime",
+      "total": 4
+    },
+    {
+      "id_sptag": "-504740731",
+      "name_cl_sptag": "Maki Oze",
+      "name_parent": "Anime",
+      "total": 3
+    },
+    {
+      "id_sptag": "944352385",
+      "name_cl_sptag": "Shinra Kusakabe",
+      "name_parent": "Anime",
+      "total": 7
+    },
+    {
+      "id_sptag": "-867018143",
+      "name_cl_sptag": "Takehisa Hinawa",
+      "name_parent": "Anime",
+      "total": 2
+    }
+  ]
+}

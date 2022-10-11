@@ -1,0 +1,123 @@
+{
+  "id_sptag": "308629961",
+  "index_page": 0,
+  "name_cl_sptag": "Kagetane Hiruko",
+  "name_parent": "Anime",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-1641954608",
+  "hc_lt_nortag": "739316646",
+  "hc_lt_sptag": "-535260963",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-2029384808",
+      "hc_lt_id_sptag": "1225997022",
+      "id_img": "BlackBullet_633111_crop2608_-990223989",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkf3lQXDFvUZG98JjYszBfx+EfDgAlGtLhv3Ppg2JSGJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkf3lQXDFvUZG98JjYszBfxRQKf/GhtJ60auCPX1eTMZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "1558197020"
+      ],
+      "lt_id_sptag": [
+        "308629961",
+        "225940197"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-552644699",
+      "hc_lt_id_sptag": "-180843535",
+      "id_img": "BlackBullet_534931_crop2608_-362997487",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidg8DIVjjM3LUL8f3AHXt/xwMcLMV/PD/h54uyWyPb7p5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidg8DIVjjM3LUL8f3AHXt/xilhDDqqCuOy4iorr95mjQJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1558197020"
+      ],
+      "lt_id_sptag": [
+        "308629961"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-552644699",
+      "hc_lt_id_sptag": "-1775257000",
+      "id_img": "BlackBullet_701898_crop2608_962449219",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif8ZjBi57OLltk13pv5z+gn2X/gEFgkqphO4SLLX6u/4ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif8ZjBi57OLltk13pv5z+gnKulWVbg2fTTyiyIEJrchfpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1558197020"
+      ],
+      "lt_id_sptag": [
+        "200731388",
+        "308629961",
+        "-1988841591",
+        "1213035221"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1558197020",
+      "name_cl_nortag": "Black Bullet",
+      "total_img": 29,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-467032699",
+      "name_cl_nortag": "Boy",
+      "total_img": 8592,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "1213035221",
+      "name_cl_sptag": "Enju Aihara",
+      "name_parent": "Anime",
+      "total": 20
+    },
+    {
+      "id_sptag": "308629961",
+      "name_cl_sptag": "Kagetane Hiruko",
+      "name_parent": "Anime",
+      "total": 3
+    },
+    {
+      "id_sptag": "200731388",
+      "name_cl_sptag": "Kisara Tendo",
+      "name_parent": "Anime",
+      "total": 10
+    },
+    {
+      "id_sptag": "-1988841591",
+      "name_cl_sptag": "Kohina Hiruko",
+      "name_parent": "Anime",
+      "total": 3
+    },
+    {
+      "id_sptag": "225940197",
+      "name_cl_sptag": "Mask",
+      "name_parent": "Anime",
+      "total": 69
+    }
+  ]
+}

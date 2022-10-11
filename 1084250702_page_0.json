@@ -1,0 +1,162 @@
+{
+  "id_sptag": "1084250702",
+  "index_page": 0,
+  "name_cl_sptag": "Kia Picanto",
+  "name_parent": "Car",
+  "total_img": 5,
+  "total_page": 0,
+  "hc_lt_alb": "51650555",
+  "hc_lt_data_img": "1859263411",
+  "hc_lt_nortag": "-1648422838",
+  "hc_lt_sptag": "1690921301",
+  "lt_alb": [
+    {
+      "id_alb": "67508",
+      "name_alb": "Car",
+      "total_img": 21900
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1648565968",
+      "hc_lt_id_sptag": "-1870611672",
+      "id_img": "2017-Kia-Picanto-GT-Line-V2-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidWj5h9J47/HlotWDKWY7z663vmqGdCr4wFL1buA925ZZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidWj5h9J47/HlotWDKWY7z6DhjNbvuxdQDvhVZW3BKXyZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "941720220"
+      ],
+      "lt_id_sptag": [
+        "-1946892195",
+        "1427174216",
+        "1084250702"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1648565968",
+      "hc_lt_id_sptag": "2009376635",
+      "id_img": "2017-Kia-Picanto-GT-Line-V5-2000_crop_3_right",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/c1X4r8MDl+I+er8pAwCigpuDukoXN9WM2dwx1rnhCJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/c1X4r8MDl+I+er8pAwCi/qCWOeFltn4+WKo5+N+MlJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "941720220"
+      ],
+      "lt_id_sptag": [
+        "-1946892195",
+        "837633701",
+        "1084250702"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1648565968",
+      "hc_lt_id_sptag": "386373621",
+      "id_img": "2017-Kia-Picanto-GT-Line-V4-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGzQ0hq5DrlelyI+uCzLAp521KFJ/YqTpPVK8QHL2R3ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGzQ0hq5DrlelyI+uCzLApebmxCZEwP9jVIa/KIR4EIZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "941720220"
+      ],
+      "lt_id_sptag": [
+        "-1946892195",
+        "1034147206",
+        "1084250702"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1648565968",
+      "hc_lt_id_sptag": "2009376635",
+      "id_img": "2017-Kia-Picanto-GT-Line-V5-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifZ4vuznZgaTx/M1JfOq8ZLS31/AJMpHdm4Gk236if36ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifZ4vuznZgaTx/M1JfOq8ZLv4drvja1AJgC2RcZ5HXgSZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "941720220"
+      ],
+      "lt_id_sptag": [
+        "-1946892195",
+        "837633701",
+        "1084250702"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1648565968",
+      "hc_lt_id_sptag": "-1719335046",
+      "id_img": "2017-Kia-Picanto-GT-Line-V1-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifAcUBc8ykAJlwu1hs2kchCi1VVbjKowShJ4L+2iKuEzJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifAcUBc8ykAJlwu1hs2kchCGNMpQJYLY3dAIpw4vAfjJZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "941720220"
+      ],
+      "lt_id_sptag": [
+        "1623687721",
+        "-1946892195",
+        "1084250702"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "941720220",
+      "name_cl_nortag": "Kia",
+      "total_img": 195,
+      "name_parent": "Car"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1946892195",
+      "name_cl_sptag": "2017",
+      "name_parent": "Car",
+      "total": 640
+    },
+    {
+      "id_sptag": "1084250702",
+      "name_cl_sptag": "Kia Picanto",
+      "name_parent": "Car",
+      "total": 5
+    },
+    {
+      "id_sptag": "1623687721",
+      "name_cl_sptag": "V1-2000",
+      "name_parent": "Car",
+      "total": 384
+    },
+    {
+      "id_sptag": "1427174216",
+      "name_cl_sptag": "V2-2000",
+      "name_parent": "Car",
+      "total": 219
+    },
+    {
+      "id_sptag": "1034147206",
+      "name_cl_sptag": "V4-2000",
+      "name_parent": "Car",
+      "total": 216
+    },
+    {
+      "id_sptag": "837633701",
+      "name_cl_sptag": "V5-2000",
+      "name_parent": "Car",
+      "total": 229
+    }
+  ]
+}

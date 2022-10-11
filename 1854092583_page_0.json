@@ -1,0 +1,113 @@
+{
+  "id_sptag": "1854092583",
+  "index_page": 0,
+  "name_cl_sptag": "Lector Fairy Tail",
+  "name_parent": "Anime",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-1625844498",
+  "hc_lt_nortag": "1175185760",
+  "hc_lt_sptag": "1366640776",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1410299610",
+      "hc_lt_id_sptag": "-513339456",
+      "id_img": "FairyTail_764137_crop2608_99694892",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicE1IZQaJu8BVU993Pv+SGcz3fW/rBfhkf+maR1JcZtJZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicE1IZQaJu8BVU993Pv+SGcDbN3luAHx62T3rFmM6MT4JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1250415468"
+      ],
+      "lt_id_sptag": [
+        "1685494957",
+        "1854092583"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "436357949",
+      "hc_lt_id_sptag": "-1464211421",
+      "id_img": "FairyTail_743627_crop2608_1472859057",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifxb2rL6y703jgUOLWCpTtQ9kZobmlJPEINL+z/qrHt8ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifxb2rL6y703jgUOLWCpTtQlkZb9iIKcZPWsdDbakcVwpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1250415468",
+        "-1575827177"
+      ],
+      "lt_id_sptag": [
+        "-1575800240",
+        "-791207032",
+        "-469870305",
+        "1854092583",
+        "-1601053196"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1250415468",
+      "name_cl_nortag": "Fairy Tail",
+      "total_img": 184,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1575827177",
+      "name_cl_nortag": "Unrefined",
+      "total_img": 824,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1575800240",
+      "name_cl_sptag": "Charles Fairy Tail",
+      "name_parent": "Anime",
+      "total": 9
+    },
+    {
+      "id_sptag": "-469870305",
+      "name_cl_sptag": "Frosch Fairy Tail",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "-1601053196",
+      "name_cl_sptag": "Happy Fairy Tail",
+      "name_parent": "Anime",
+      "total": 28
+    },
+    {
+      "id_sptag": "1854092583",
+      "name_cl_sptag": "Lector Fairy Tail",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "-791207032",
+      "name_cl_sptag": "Panther Lily Fairy Tail",
+      "name_parent": "Anime",
+      "total": 7
+    },
+    {
+      "id_sptag": "1685494957",
+      "name_cl_sptag": "Sting Eucliffe",
+      "name_parent": "Anime",
+      "total": 12
+    }
+  ]
+}

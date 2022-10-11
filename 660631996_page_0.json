@@ -1,0 +1,89 @@
+{
+  "id_sptag": "660631996",
+  "index_page": 0,
+  "name_cl_sptag": "Mashu c The Money Of Soul And Possibility Control",
+  "name_parent": "Anime",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-1629886996",
+  "hc_lt_nortag": "121205333",
+  "hc_lt_sptag": "678271339",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1507610155",
+      "hc_lt_id_sptag": "753435791",
+      "id_img": "CTheMoneyOfSoulAndPossibilityControl_878345_crop2608_1721681717",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifIEVmFiMET0i8tlHkgqCVVsTa2xZzwMtqy+B3mvUF6F5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifIEVmFiMET0i8tlHkgqCVV81ZmUwrUCDqixRrj/WjRiJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1103183312",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "606716576",
+        "-353024394",
+        "376240968",
+        "1813151526",
+        "660631996"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1103183312",
+      "name_cl_nortag": "C The Money Of Soul And Possibility Control",
+      "total_img": 3,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "376240968",
+      "name_cl_sptag": "Girls Eyes Blue",
+      "name_parent": "Anime",
+      "total": 25656
+    },
+    {
+      "id_sptag": "1813151526",
+      "name_cl_sptag": "Girls Hair Brow",
+      "name_parent": "Anime",
+      "total": 13760
+    },
+    {
+      "id_sptag": "606716576",
+      "name_cl_sptag": "Girls Horns",
+      "name_parent": "Anime",
+      "total": 2031
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "660631996",
+      "name_cl_sptag": "Mashu c The Money Of Soul And Possibility Control",
+      "name_parent": "Anime",
+      "total": 1
+    }
+  ]
+}

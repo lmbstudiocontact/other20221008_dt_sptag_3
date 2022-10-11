@@ -1,0 +1,145 @@
+{
+  "id_sptag": "-2099257440",
+  "index_page": 0,
+  "name_cl_sptag": "Marshall D Teach",
+  "name_parent": "Anime",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "1649877377",
+  "hc_lt_nortag": "1541372204",
+  "hc_lt_sptag": "461471048",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1971765911",
+      "hc_lt_id_sptag": "1577143267",
+      "id_img": "OnePiece_864485_crop2608_-158637522",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicaeOJ8YVvGv93kJ7CzThLUBe0xZE7tudn524Hsp75esJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicaeOJ8YVvGv93kJ7CzThLU9pQi/NJ02iyc8TdS2TdLbpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1166409139",
+        "-467032699"
+      ],
+      "lt_id_sptag": [
+        "1871663043",
+        "-553944920",
+        "-2067283370",
+        "1624360505",
+        "73451935",
+        "-1981293852",
+        "-62888169",
+        "-2099257440"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1971765911",
+      "hc_lt_id_sptag": "-266503610",
+      "id_img": "OnePiece_790590_crop2608_960131239",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewba3HcxoETW9vSa3M+uRgmpWBHWSj+f1usbccEAlxeZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewba3HcxoETW9vSa3M+uRg3SHH6psdfqhwKIAVMERlWpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1166409139",
+        "-467032699"
+      ],
+      "lt_id_sptag": [
+        "-2099257440"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1125754650",
+      "hc_lt_id_sptag": "-266503610",
+      "id_img": "OnePiece_973163_crop2608_-518771358",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTDRUkFFERf/uootY9FsueUUJ8GDkHn5vdi08ET7qZHJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTDRUkFFERf/uootY9Fsue0M3xjZCtiIgIMqaqZpBmnJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1166409139"
+      ],
+      "lt_id_sptag": [
+        "-2099257440"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-467032699",
+      "name_cl_nortag": "Boy",
+      "total_img": 8592,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1166409139",
+      "name_cl_nortag": "One Piece",
+      "total_img": 283,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "1871663043",
+      "name_cl_sptag": "Bartholomew Kuma",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "-2067283370",
+      "name_cl_sptag": "Boa Hancock",
+      "name_parent": "Anime",
+      "total": 5
+    },
+    {
+      "id_sptag": "-62888169",
+      "name_cl_sptag": "Crocodile One Piece",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "1624360505",
+      "name_cl_sptag": "Donquixote Doflamingo",
+      "name_parent": "Anime",
+      "total": 6
+    },
+    {
+      "id_sptag": "-1981293852",
+      "name_cl_sptag": "Dracule Mihawk",
+      "name_parent": "Anime",
+      "total": 4
+    },
+    {
+      "id_sptag": "-553944920",
+      "name_cl_sptag": "Gekko Moriah",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "73451935",
+      "name_cl_sptag": "Jinbe One Piece",
+      "name_parent": "Anime",
+      "total": 5
+    },
+    {
+      "id_sptag": "-2099257440",
+      "name_cl_sptag": "Marshall D Teach",
+      "name_parent": "Anime",
+      "total": 3
+    }
+  ]
+}

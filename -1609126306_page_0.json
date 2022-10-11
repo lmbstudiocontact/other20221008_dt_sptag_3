@@ -1,0 +1,120 @@
+{
+  "id_sptag": "-1609126306",
+  "index_page": 0,
+  "name_cl_sptag": "Kaga Kouko",
+  "name_parent": "Anime",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-159353953",
+  "hc_lt_nortag": "-1317817437",
+  "hc_lt_sptag": "690128680",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "153150816",
+      "hc_lt_id_sptag": "-861636706",
+      "id_img": "GoldenTime_702206_crop2608_1429146938",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVTC995RmueFc7DkMciU0WFLOU1M29zkOdXCn3pix4WZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVTC995RmueFc7DkMciU0WDDMr1Yxo6QOUb4CqV46rbJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "102565213",
+        "1728965817"
+      ],
+      "lt_id_sptag": [
+        "-1609126306"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-398078160",
+      "hc_lt_id_sptag": "-1057292927",
+      "id_img": "GoldenTime_798805_crop2608_-1246260350",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicyt7WyVMRQIDl96jJSaIibHMKUwf1eAphP8t0E6IvEHZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicyt7WyVMRQIDl96jJSaIibLFNDWrrDqh6m4Ihvn3H8q5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "102565213",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "-353024394",
+        "-1609126306",
+        "-1353196196",
+        "-1165766878",
+        "491824726"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1728965817",
+      "name_cl_nortag": "Couple",
+      "total_img": 2059,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "102565213",
+      "name_cl_nortag": "Golden Time",
+      "total_img": 2,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "491824726",
+      "name_cl_sptag": "Girls Cute Cool",
+      "name_parent": "Anime",
+      "total": 31431
+    },
+    {
+      "id_sptag": "-1353196196",
+      "name_cl_sptag": "Girls Hair Orange",
+      "name_parent": "Anime",
+      "total": 4128
+    },
+    {
+      "id_sptag": "-1165766878",
+      "name_cl_sptag": "Girls Hair Yellow",
+      "name_parent": "Anime",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-1230434216",
+      "name_cl_sptag": "Girls Smile",
+      "name_parent": "Anime",
+      "total": 24284
+    },
+    {
+      "id_sptag": "-1609126306",
+      "name_cl_sptag": "Kaga Kouko",
+      "name_parent": "Anime",
+      "total": 2
+    }
+  ]
+}

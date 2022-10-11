@@ -1,0 +1,103 @@
+{
+  "id_sptag": "-725896329",
+  "index_page": 0,
+  "name_cl_sptag": "Maya Arpeggio Of Blue Steel",
+  "name_parent": "Anime",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "1636424320",
+  "hc_lt_nortag": "-1562315449",
+  "hc_lt_sptag": "-1778965956",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "751432077",
+      "hc_lt_id_sptag": "1518345707",
+      "id_img": "ArpeggioofBlueSteel_704197_crop2608_1342762954",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicsZkfZcVeAZ2upfjCbNql0L7Q91lgUj3KO+VSmFTI+U5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicsZkfZcVeAZ2upfjCbNql0NBcdY1CzNhO57i1D65LJGJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "-932450893"
+      ],
+      "lt_id_sptag": [
+        "-1915687819",
+        "492321712",
+        "-725896329",
+        "-353024394",
+        "-1165766878",
+        "1078827483",
+        "491824726"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-932450893",
+      "name_cl_nortag": "Arpeggio of Blue Steel",
+      "total_img": 24,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "491824726",
+      "name_cl_sptag": "Girls Cute Cool",
+      "name_parent": "Anime",
+      "total": 31431
+    },
+    {
+      "id_sptag": "-1915687819",
+      "name_cl_sptag": "Girls Eyes Red",
+      "name_parent": "Anime",
+      "total": 12697
+    },
+    {
+      "id_sptag": "-1165766878",
+      "name_cl_sptag": "Girls Hair Yellow",
+      "name_parent": "Anime",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "492321712",
+      "name_cl_sptag": "Kongou Arpeggio Of Blue Steel",
+      "name_parent": "Anime",
+      "total": 9
+    },
+    {
+      "id_sptag": "-725896329",
+      "name_cl_sptag": "Maya Arpeggio Of Blue Steel",
+      "name_parent": "Anime",
+      "total": 1
+    }
+  ]
+}

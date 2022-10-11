@@ -1,0 +1,203 @@
+{
+  "id_sptag": "245859384",
+  "index_page": 0,
+  "name_cl_sptag": "Koyuki Amagase",
+  "name_parent": "Anime",
+  "total_img": 4,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "2013739259",
+  "hc_lt_nortag": "-434510699",
+  "hc_lt_sptag": "-109588785",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "633324312",
+      "hc_lt_id_sptag": "-247633952",
+      "id_img": "MagusTale_215745_crop2608_688923978",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie3AwWBGiHL09KIjaYIAEqrVRzTYLugvmlB7WvNF9c5h5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie3AwWBGiHL09KIjaYIAEqrGRn19I2L8a/u27MJSGO60pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "2138097038",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "245859384",
+        "1568092380",
+        "-1353196196",
+        "1078827483",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "633324312",
+      "hc_lt_id_sptag": "-314371247",
+      "id_img": "MagusTale_721161_crop2608_624377570",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid4KLSNxCgOH5H0N7+sIyQK1qfGRT3yYGg5v6S4theybpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid4KLSNxCgOH5H0N7+sIyQKOmAFbhrN/vgKdQB+nyXo55Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "2138097038",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "1755521698",
+        "245859384",
+        "-1165766878",
+        "1078827483",
+        "1410951528",
+        "176756002"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "633324312",
+      "hc_lt_id_sptag": "-186097221",
+      "id_img": "MagusTale_721161_crop2608_113520",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic2DPSs2SkmD6L+11nk1Y+qpezb5CzztJfHkYnCFPh+TJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic2DPSs2SkmD6L+11nk1Y+qryo8uTQiEeZgtsHZqjRaW5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "2138097038",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "1755521698",
+        "245859384",
+        "-260062140",
+        "-1165766878",
+        "1078827483",
+        "1410951528",
+        "176756002"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "633324312",
+      "hc_lt_id_sptag": "-1078590823",
+      "id_img": "MagusTale_215740_crop2608_-2056142761",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifmPiSXr9MxhaNAmjHn4GhKWxrM2zfnmr04fLKD7/33ApVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifmPiSXr9MxhaNAmjHn4GhK2S9ol4NIspjTOP5H/XFe/ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "2138097038",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1937610099",
+        "1755521698",
+        "245859384",
+        "1813151526",
+        "1078827483",
+        "1410951528"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "2138097038",
+      "name_cl_nortag": "Magus Tale",
+      "total_img": 26,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "176756002",
+      "name_cl_sptag": "Book",
+      "name_parent": "Anime",
+      "total": 116
+    },
+    {
+      "id_sptag": "1568092380",
+      "name_cl_sptag": "Girls Eyes Orange",
+      "name_parent": "Anime",
+      "total": 3828
+    },
+    {
+      "id_sptag": "1755521698",
+      "name_cl_sptag": "Girls Eyes Yellow",
+      "name_parent": "Anime",
+      "total": 6605
+    },
+    {
+      "id_sptag": "1813151526",
+      "name_cl_sptag": "Girls Hair Brow",
+      "name_parent": "Anime",
+      "total": 13760
+    },
+    {
+      "id_sptag": "-1937610099",
+      "name_cl_sptag": "Girls Hair Grey",
+      "name_parent": "Anime",
+      "total": 9239
+    },
+    {
+      "id_sptag": "-1353196196",
+      "name_cl_sptag": "Girls Hair Orange",
+      "name_parent": "Anime",
+      "total": 4128
+    },
+    {
+      "id_sptag": "-1165766878",
+      "name_cl_sptag": "Girls Hair Yellow",
+      "name_parent": "Anime",
+      "total": 12651
+    },
+    {
+      "id_sptag": "1410951528",
+      "name_cl_sptag": "Girls Short Hair",
+      "name_parent": "Anime",
+      "total": 23769
+    },
+    {
+      "id_sptag": "-1230434216",
+      "name_cl_sptag": "Girls Smile",
+      "name_parent": "Anime",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-260062140",
+      "name_cl_sptag": "Girls Uniform",
+      "name_parent": "Anime",
+      "total": 16929
+    },
+    {
+      "id_sptag": "245859384",
+      "name_cl_sptag": "Koyuki Amagase",
+      "name_parent": "Anime",
+      "total": 4
+    }
+  ]
+}

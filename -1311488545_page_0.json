@@ -1,0 +1,564 @@
+{
+  "id_sptag": "-1311488545",
+  "index_page": 0,
+  "name_cl_sptag": "Maserati Gran Cabrio",
+  "name_parent": "Car",
+  "total_img": 22,
+  "total_page": 0,
+  "hc_lt_alb": "51650555",
+  "hc_lt_data_img": "1410738952",
+  "hc_lt_nortag": "-551190555",
+  "hc_lt_sptag": "954501511",
+  "lt_alb": [
+    {
+      "id_alb": "67508",
+      "name_alb": "Car",
+      "total_img": 21900
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "1993932712",
+      "id_img": "2012-Maserati-GranCabrio-Sport-V2-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicmps0J6Dznns9LZNVCgKKbsEFzFQxk3/Ad18lFFUHiHZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicmps0J6Dznns9LZNVCgKKbkRHnKSSWr+cSdN9nySVvAJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "1033687757",
+        "-1311488545",
+        "-1808514493",
+        "-1951509800"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "809509861",
+      "id_img": "2013-Maserati-GranCabrio-MC-V5-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiezXBbksxv61XRouk5exarUoo0ZNs3oPFQb/Hdxh0dOVJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiezXBbksxv61XRouk5exarUAiKOtRyzcR/1f2m9Zaop0JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "-1950586279",
+        "1896912288",
+        "-1311488545"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "-437766014",
+      "id_img": "2012-Maserati-GranCabrio-Sport-V5-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidDqcr6r6DeXMOWUtJXwSpMVkRJZURiMgNozF2UJfts0pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidDqcr6r6DeXMOWUtJXwSpMygqNeTW5oMbI5oB39Jfd1pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "1896912288",
+        "1033687757",
+        "-1311488545",
+        "-1951509800"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "1768520956",
+      "id_img": "2011-Maserati-GranCabrio-Fendi-V1-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidnFTNzbdauDH8pkR3BTv12361FdutymsPWBtKglExq+ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidnFTNzbdauDH8pkR3BTv12brhkHwcmijUoJLawsLhN2pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "-1612000988",
+        "-1952433321",
+        "-1311488545"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "-659358694",
+      "id_img": "2013-Maserati-GranCabrio-Sport-V5-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemJYvB3ALtvSs8S6LuMfNczutnU3/pYYE6xRIeWxlW7JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemJYvB3ALtvSs8S6LuMfNc/DP+LQM9L3N/5jhHoUE2eZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "-1950586279",
+        "1896912288",
+        "1033687757",
+        "-1311488545"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "-2024706188",
+      "id_img": "2013-Maserati-GranCabrio-Sport-V4-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidifOPvOm3vH5F4fYJCUiqd04UkGI77fEPmNS8hLaSsDZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidifOPvOm3vH5F4fYJCUiqdl9hCjbhFH+mqbjCeP9RDnZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "-1950586279",
+        "1033687757",
+        "-1311488545",
+        "2093425793"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "370304546",
+      "id_img": "2012-Maserati-GranCabrio-Sport-V1-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkJQ/qmTeu2PtnJc2aS0jQi4w7XFnDo4rwvWCKxlqNXpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkJQ/qmTeu2PtnJc2aS0jQajg6eINnXGKodRPV205LIpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "-1612000988",
+        "1033687757",
+        "-1311488545",
+        "-1951509800"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "-524926621",
+      "id_img": "2018-Maserati-Gran-Cabrio-Sport-V4-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/+u/Its49K7VQoAUVOoWCOp9Y9CaZEeRBpZZtk3UkRZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/+u/Its49K7VQoAUVOoWC6bDQFYEy1mauVEgQh5FgWpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "1034147206",
+        "1033687757",
+        "-1945968674",
+        "-1311488545"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "1725952571",
+      "id_img": "2013-Maserati-GranCabrio-MC-V6-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifoHH1feVlsBdl4eU60ztB3zI3XHAyNxnKy5+I997LhdpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifoHH1feVlsBdl4eU60ztB31cIOgNiIpFqH/4iOtC8JCpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "-1950586279",
+        "1700398783",
+        "-1311488545"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "-1152002446",
+      "id_img": "2013-Maserati-GranCabrio-MC-V3-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifpAEGnoyNV63urxy0kQ8Zkn5QVQV/15FkLqVTfmj342JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifpAEGnoyNV63urxy0kQ8ZkZEWNOw44EB2b1Do1/z+u/JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "-1950586279",
+        "-1311488545",
+        "-2005027998"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "1594268149",
+      "id_img": "2010-Maserati-GranCabrio-V2-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieqLLv0c6qAcDyxa2sLJMV0NJjJscE0xBXIdMRUjGOz9JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieqLLv0c6qAcDyxa2sLJMV0TuCTOCs1QVLRygJ9e8bUbJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "-1953356842",
+        "-1311488545",
+        "-1808514493"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "321847424",
+      "id_img": "2018-Maserati-Gran-Cabrio-Sport-V1-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieJW30WLzcHsOCWIQaYRl7/y47SlXC2Tcy5DjHqCHv9K5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieJW30WLzcHsOCWIQaYRl7/BbN4QsU4aZbqO2Bv08tmipVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "1623687721",
+        "1033687757",
+        "-1945968674",
+        "-1311488545"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "-1016007312",
+      "id_img": "2011-Maserati-GranCabrio-Fendi-V2-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifyxEZn9BqX54KqXkHQIVXHFAXfSA4nu84Y4pvg7Lzvr5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifyxEZn9BqX54KqXkHQIVXHYetXJqHCzKuO6gFRiEhioJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "-1952433321",
+        "-1311488545",
+        "-1808514493"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "-996558796",
+      "id_img": "2013-Maserati-GranCabrio-Sport-V2-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid35ybn9YnvD9tRkbvGOsrrvuvfFQm+9q/C5I8BmzuOD5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid35ybn9YnvD9tRkbvGOsrrJuptV6LQHI6lyIRHl8nVX5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "-1950586279",
+        "1033687757",
+        "-1311488545",
+        "-1808514493"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "-204617384",
+      "id_img": "2012-Maserati-GranCabrio-Sport-V6-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidYk2Y/gIE8YhOIsYzFBD4KYoMsU1TcvPu+l87e4iwycZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidYk2Y/gIE8YhOIsYzFBD4KzxQx39nQTrdryhiPcbgeDZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "1700398783",
+        "1033687757",
+        "-1311488545",
+        "-1951509800"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "-788229975",
+      "id_img": "2010-Maserati-GranCabrio-V1-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifR9SjD2C+rGhFkv/H814zRjTDsiLAmpb5u4FH3rWuSr5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifR9SjD2C+rGhFkv/H814zRzpVTb4PBu+tKx34bAxw1QpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "-1953356842",
+        "-1612000988",
+        "-1311488545"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "274416337",
+      "id_img": "2013-Maserati-GranCabrio-MC-V2-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiePNgQGDv7PQ5v1SN8kE7/4r15CLJHLXM0luLQ/d9+fIZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiePNgQGDv7PQ5v1SN8kE7/4mtqeB/fi+oZmPE7aJoWmZ5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "-1950586279",
+        "-1311488545",
+        "-1808514493"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "186134632",
+      "id_img": "2012-Maserati-GranCabrio-Sport-V4-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHbsuk3dAt4cMw1GYGpupwv9GqdXh04uNmXYW34XhMZpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHbsuk3dAt4cMw1GYGpupwrsGld6uKc65FTt34KnBW/JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "1033687757",
+        "-1311488545",
+        "2093425793",
+        "-1951509800"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "1783937634",
+      "id_img": "2018-Maserati-Gran-Cabrio-Sport-V3-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidj+GsFUH7g7bflFPiZ1S45M/wmEH0OaBg+RSTIIE9fbJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidj+GsFUH7g7bflFPiZ1S45Cr2nYCp0TvLvWjNU67kzb5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "1230660711",
+        "1033687757",
+        "-1945968674",
+        "-1311488545"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "2075554713",
+      "id_img": "2018-Maserati-Gran-Cabrio-Sport-V5-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkic4USynYc3LyK40LCDj/jpzoSErrKE9sjF4/Gtc1A5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkic4USynYc3LyK40LCDj/CUOL7w6tbOClWJZx64biBZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "1033687757",
+        "-1945968674",
+        "-1311488545",
+        "837633701"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "-753731055",
+      "id_img": "2013-Maserati-GranCabrio-MC-V4-2160_crop_1_left",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidN/+lVKXuqWK7NTpXGCiBiYP3pJgS/Mf7HEXIPiBlrgpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidN/+lVKXuqWK7NTpXGCiBikNy9WeHQMyMO57pf8MXeCZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "-1950586279",
+        "-1311488545",
+        "2093425793"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-886332919",
+      "hc_lt_id_sptag": "1871989717",
+      "id_img": "2013-Maserati-GranCabrio-Sport-V3-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiftsy5lTJAuVk7WcFegxXNto7hCSkjuQMJ2ZwjEIrZ62JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiftsy5lTJAuVk7WcFegxXNt7lBTBT6PM05KHTVwojHryZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "276477283"
+      ],
+      "lt_id_sptag": [
+        "-1950586279",
+        "1033687757",
+        "-1311488545",
+        "-2005027998"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "276477283",
+      "name_cl_nortag": "Maserati",
+      "total_img": 318,
+      "name_parent": "Car"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1953356842",
+      "name_cl_sptag": "2010",
+      "name_parent": "Car",
+      "total": 329
+    },
+    {
+      "id_sptag": "-1952433321",
+      "name_cl_sptag": "2011",
+      "name_parent": "Car",
+      "total": 374
+    },
+    {
+      "id_sptag": "-1951509800",
+      "name_cl_sptag": "2012",
+      "name_parent": "Car",
+      "total": 513
+    },
+    {
+      "id_sptag": "-1950586279",
+      "name_cl_sptag": "2013",
+      "name_parent": "Car",
+      "total": 637
+    },
+    {
+      "id_sptag": "-1945968674",
+      "name_cl_sptag": "2018",
+      "name_parent": "Car",
+      "total": 588
+    },
+    {
+      "id_sptag": "-1311488545",
+      "name_cl_sptag": "Maserati Gran Cabrio",
+      "name_parent": "Car",
+      "total": 22
+    },
+    {
+      "id_sptag": "1033687757",
+      "name_cl_sptag": "Sport",
+      "name_parent": "Car",
+      "total": 373
+    },
+    {
+      "id_sptag": "1623687721",
+      "name_cl_sptag": "V1-2000",
+      "name_parent": "Car",
+      "total": 384
+    },
+    {
+      "id_sptag": "-1612000988",
+      "name_cl_sptag": "V1-2160",
+      "name_parent": "Car",
+      "total": 188
+    },
+    {
+      "id_sptag": "-1808514493",
+      "name_cl_sptag": "V2-2160",
+      "name_parent": "Car",
+      "total": 104
+    },
+    {
+      "id_sptag": "1230660711",
+      "name_cl_sptag": "V3-2000",
+      "name_parent": "Car",
+      "total": 278
+    },
+    {
+      "id_sptag": "-2005027998",
+      "name_cl_sptag": "V3-2160",
+      "name_parent": "Car",
+      "total": 152
+    },
+    {
+      "id_sptag": "1034147206",
+      "name_cl_sptag": "V4-2000",
+      "name_parent": "Car",
+      "total": 216
+    },
+    {
+      "id_sptag": "2093425793",
+      "name_cl_sptag": "V4-2160",
+      "name_parent": "Car",
+      "total": 129
+    },
+    {
+      "id_sptag": "837633701",
+      "name_cl_sptag": "V5-2000",
+      "name_parent": "Car",
+      "total": 229
+    },
+    {
+      "id_sptag": "1896912288",
+      "name_cl_sptag": "V5-2160",
+      "name_parent": "Car",
+      "total": 131
+    },
+    {
+      "id_sptag": "1700398783",
+      "name_cl_sptag": "V6-2160",
+      "name_parent": "Car",
+      "total": 98
+    }
+  ]
+}
