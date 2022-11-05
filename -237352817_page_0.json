@@ -20,10 +20,10 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "410769326",
-      "hc_lt_id_sptag": "-1495233074",
-      "id_img": "1982-Lancia-Rally-037-Stradale-V5-1440_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif2fxcGKgHjP7q7vSF0M/7Coq9QnqLsMeWROJ9ArcoLyJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif2fxcGKgHjP7q7vSF0M/7CpWLWzqPjK7rGLPToVF1pdpVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-1246781347",
+      "id_img": "1982-Lancia-Rally-037-Stradale-V4-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5LO37R/p06pIBkbjVj8ANrKhmKv30dI4JndU6AjLhl5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5LO37R/p06pIBkbjVj8ANdGjCLIikFdwdGkzcCWxJeZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "67508"
       ],
@@ -32,8 +32,8 @@
         "-2076967653"
       ],
       "lt_id_sptag": [
+        "-1339099097",
         "198649755",
-        "-1535612602",
         "-237352817"
       ]
     },
@@ -60,10 +60,10 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "410769326",
-      "hc_lt_id_sptag": "-1246781347",
-      "id_img": "1982-Lancia-Rally-037-Stradale-V4-1440_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5LO37R/p06pIBkbjVj8ANrKhmKv30dI4JndU6AjLhl5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5LO37R/p06pIBkbjVj8ANdGjCLIikFdwdGkzcCWxJeZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-1495233074",
+      "id_img": "1982-Lancia-Rally-037-Stradale-V5-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif2fxcGKgHjP7q7vSF0M/7Coq9QnqLsMeWROJ9ArcoLyJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif2fxcGKgHjP7q7vSF0M/7CpWLWzqPjK7rGLPToVF1pdpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "67508"
       ],
@@ -72,8 +72,8 @@
         "-2076967653"
       ],
       "lt_id_sptag": [
-        "-1339099097",
         "198649755",
+        "-1535612602",
         "-237352817"
       ]
     },

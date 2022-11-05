@@ -6,9 +6,9 @@
   "total_img": 5,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "945505852",
+  "hc_lt_data_img": "1857014504",
   "hc_lt_nortag": "-448190206",
-  "hc_lt_sptag": "2071343786",
+  "hc_lt_sptag": "-1732302579",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,25 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1833493417",
-      "hc_lt_id_sptag": "739235208",
-      "id_img": "Servamp_726025_crop2608_-1208540809",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvmSDUvUDwawLsrhQsSChcDvQmpACV6VqOFX84kA7Cf5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvmSDUvUDwawLsrhQsSChcUCYweX3W1kM3zgqJNRbNr5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "1910226983"
-      ],
-      "lt_id_sptag": [
-        "1009443554"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1833493417",
-      "hc_lt_id_sptag": "739235208",
+      "hc_lt_id_sptag": "-737504901",
       "id_img": "Servamp_774158_crop2608_-1649529610",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifIpHQaRrH7C7ehYRFgmwJi5Qeimq/St2rgkZCMIudcI5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifIpHQaRrH7C7ehYRFgmwJinbXs8SaZ/x6gP98Cl2DD15Vy4706IhQgSYlgwrgVRHU=",
@@ -50,6 +32,26 @@
         "1910226983"
       ],
       "lt_id_sptag": [
+        "-467032699",
+        "1009443554"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1833493417",
+      "hc_lt_id_sptag": "-737504901",
+      "id_img": "Servamp_774158_crop2608_1130366563",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidRn8racdBBVNAGcl3oDgvmpV19rWXAKu76cUpn9mtEpZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidRn8racdBBVNAGcl3oDgvmwlxV745+lP9SSvPV3376AJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "1910226983"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
         "1009443554"
       ]
     },
@@ -90,10 +92,10 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1833493417",
-      "hc_lt_id_sptag": "739235208",
-      "id_img": "Servamp_774158_crop2608_1130366563",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidRn8racdBBVNAGcl3oDgvmpV19rWXAKu76cUpn9mtEpZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidRn8racdBBVNAGcl3oDgvmwlxV745+lP9SSvPV3376AJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-737504901",
+      "id_img": "Servamp_726025_crop2608_-1208540809",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvmSDUvUDwawLsrhQsSChcDvQmpACV6VqOFX84kA7Cf5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvmSDUvUDwawLsrhQsSChcUCYweX3W1kM3zgqJNRbNr5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -102,6 +104,7 @@
         "1910226983"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "1009443554"
       ]
     }
@@ -121,6 +124,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "1009443554",
       "name_cl_sptag": "Lawless Servamp",

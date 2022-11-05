@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "1954977673",
+  "hc_lt_data_img": "-1262694599",
   "hc_lt_nortag": "-1028522020",
-  "hc_lt_sptag": "-1722901219",
+  "hc_lt_sptag": "1316087418",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1361066685",
-      "hc_lt_id_sptag": "-1884429042",
+      "hc_lt_id_sptag": "933798145",
       "id_img": "StarrySky_958134_crop2608_-1549873869",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5rtwbdx9/iwMfwC9/lKTj+NSEuzgQbtB7A4yTngqkvJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5rtwbdx9/iwMfwC9/lKTjtvH7nVcXJwerNVnHsbFqBZVy4706IhQgSYlgwrgVRHU=",
@@ -32,13 +32,14 @@
         "690113793"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "1861084229"
       ]
     },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1361066685",
-      "hc_lt_id_sptag": "-219569055",
+      "hc_lt_id_sptag": "-2027606124",
       "id_img": "StarrySky_958134_crop2608_1317795647",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicISkpVWKj9LfH1p0XXak4NsiOoN/n37yjozDhKEJwdiZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicISkpVWKj9LfH1p0XXak4NClmL/fvMUk1MlPjdzOKZtJVy4706IhQgSYlgwrgVRHU=",
@@ -50,6 +51,7 @@
         "690113793"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "1956034203",
         "-1216236529",
         "1861084229"
@@ -76,6 +78,12 @@
       "name_cl_sptag": "Boy Sad",
       "name_parent": "Anime",
       "total": 1551
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "1861084229",

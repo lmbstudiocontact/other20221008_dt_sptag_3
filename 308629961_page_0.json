@@ -6,9 +6,9 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1641954608",
+  "hc_lt_data_img": "1531587381",
   "hc_lt_nortag": "739316646",
-  "hc_lt_sptag": "-535260963",
+  "hc_lt_sptag": "-1452696128",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,25 +17,6 @@
     }
   ],
   "lt_data_img": [
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-2029384808",
-      "hc_lt_id_sptag": "1225997022",
-      "id_img": "BlackBullet_633111_crop2608_-990223989",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkf3lQXDFvUZG98JjYszBfx+EfDgAlGtLhv3Ppg2JSGJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkf3lQXDFvUZG98JjYszBfxRQKf/GhtJ60auCPX1eTMZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "1558197020"
-      ],
-      "lt_id_sptag": [
-        "308629961",
-        "225940197"
-      ]
-    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-552644699",
@@ -51,6 +32,26 @@
       ],
       "lt_id_sptag": [
         "308629961"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-2029384808",
+      "hc_lt_id_sptag": "-1603273397",
+      "id_img": "BlackBullet_633111_crop2608_-990223989",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkf3lQXDFvUZG98JjYszBfx+EfDgAlGtLhv3Ppg2JSGJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkf3lQXDFvUZG98JjYszBfxRQKf/GhtJ60auCPX1eTMZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "1558197020"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "308629961",
+        "225940197"
       ]
     },
     {
@@ -89,6 +90,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "1213035221",
       "name_cl_sptag": "Enju Aihara",

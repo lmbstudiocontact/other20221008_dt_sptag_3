@@ -6,9 +6,9 @@
   "total_img": 6,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "173226474",
+  "hc_lt_data_img": "82472907",
   "hc_lt_nortag": "-862218315",
-  "hc_lt_sptag": "1752274573",
+  "hc_lt_sptag": "1069938678",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -21,35 +21,9 @@
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "551849679",
       "hc_lt_id_sptag": "896960424",
-      "id_img": "Naruto_727027_crop2608_1433163660",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMHPiHlTQ+TbfgeCYbd7cywwAXSqg7CgQxSidcJhjCtZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMHPiHlTQ+TbfgeCYbd7cy4dcckloSM7++ytpwLY4dNJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-273690518"
-      ],
-      "lt_id_sptag": [
-        "1429133242",
-        "1239108845",
-        "-1680871127",
-        "120588791",
-        "-762518597",
-        "-2029145421",
-        "-1812796880",
-        "106314562",
-        "639891871",
-        "-1636146762"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "551849679",
-      "hc_lt_id_sptag": "896960424",
-      "id_img": "Naruto_727027_crop2608_-1035898439",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFEU9QEfQiPeoCYyLiErGW8xTjJZwljeQJPzusKxffJpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFEU9QEfQiPeoCYyLiErGWF0CxjXjaLEMQyWQe4X5FLZVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "Naruto_727027_crop2608_71164793",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiienHLgzQQCJ3Ozw089z5KtSb1hgr2aWzsKrrRjCSjUyY5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiienHLgzQQCJ3Ozw089z5KtS4QXyFr5DX6SqfjI5jW+EDZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -72,7 +46,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-924890430",
-      "hc_lt_id_sptag": "-6609614",
+      "hc_lt_id_sptag": "710163323",
       "id_img": "Naruto_726630_crop2608_-1875301512",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid4/80DYa+muWp0ooh1ypp+IzuNCSz4Q/4hM75FmNLtzJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid4/80DYa+muWp0ooh1ypp+wPPWkZKy7LAaeTzSzueQ5ZVy4706IhQgSYlgwrgVRHU=",
@@ -85,6 +59,7 @@
       ],
       "lt_id_sptag": [
         "-916379327",
+        "-467032699",
         "120588791",
         "636212748",
         "-2029145421",
@@ -95,11 +70,35 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-924890430",
+      "hc_lt_id_sptag": "-1076128802",
+      "id_img": "Naruto_807071_crop2608_-1656762837",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifzFyMtUuxrSqlt+Hhe0BXh8MwHKVHBzo8r7evKnL3XSpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifzFyMtUuxrSqlt+Hhe0BXhPGAh+3Go7LlZqGfxEf2aEZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-273690518"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "-1282606609",
+        "-1666763806",
+        "-762518597",
+        "-1176638482",
+        "636212748",
+        "639891871"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "551849679",
       "hc_lt_id_sptag": "896960424",
-      "id_img": "Naruto_727027_crop2608_71164793",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiienHLgzQQCJ3Ozw089z5KtSb1hgr2aWzsKrrRjCSjUyY5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiienHLgzQQCJ3Ozw089z5KtS4QXyFr5DX6SqfjI5jW+EDZVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "Naruto_727027_crop2608_-1035898439",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFEU9QEfQiPeoCYyLiErGW8xTjJZwljeQJPzusKxffJpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFEU9QEfQiPeoCYyLiErGWF0CxjXjaLEMQyWQe4X5FLZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -150,25 +149,28 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-924890430",
-      "hc_lt_id_sptag": "-1028665359",
-      "id_img": "Naruto_807071_crop2608_-1656762837",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifzFyMtUuxrSqlt+Hhe0BXh8MwHKVHBzo8r7evKnL3XSpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifzFyMtUuxrSqlt+Hhe0BXhPGAh+3Go7LlZqGfxEf2aEZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "551849679",
+      "hc_lt_id_sptag": "896960424",
+      "id_img": "Naruto_727027_crop2608_1433163660",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMHPiHlTQ+TbfgeCYbd7cywwAXSqg7CgQxSidcJhjCtZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMHPiHlTQ+TbfgeCYbd7cy4dcckloSM7++ytpwLY4dNJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
-        "-467032699",
         "-273690518"
       ],
       "lt_id_sptag": [
-        "-1282606609",
-        "-1666763806",
+        "1429133242",
+        "1239108845",
+        "-1680871127",
+        "120588791",
         "-762518597",
-        "-1176638482",
-        "636212748",
-        "639891871"
+        "-2029145421",
+        "-1812796880",
+        "106314562",
+        "639891871",
+        "-1636146762"
       ]
     }
   ],
@@ -198,6 +200,12 @@
       "name_cl_sptag": "Boy Dark Black",
       "name_parent": "Anime",
       "total": 573
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "-1176638482",

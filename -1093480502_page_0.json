@@ -6,9 +6,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "1578469055",
+  "hc_lt_data_img": "-262936396",
   "hc_lt_nortag": "754504534",
-  "hc_lt_sptag": "2011190596",
+  "hc_lt_sptag": "-543724173",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -19,55 +19,11 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-424974172",
-      "hc_lt_id_sptag": "1698358146",
-      "id_img": "InuYasha_139522_crop2608_412479355",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicTYqKtAcJHb/NR/egT1BNJeqm+7c1ruNl4qzY1wfdA5JVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicTYqKtAcJHb/NR/egT1BNJi+B8E+pl1L4J8rYJusJtLZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "882310285",
-        "1728965817"
-      ],
-      "lt_id_sptag": [
-        "-1093480502",
-        "-1366534218"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-976203148",
       "hc_lt_id_sptag": "-1158651948",
       "id_img": "InuYasha_941611_crop2608_335317277",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieo0n5Srlz0Q4HiXIeanyQOmPauEJuoJqQZMPm4ve4EKJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieo0n5Srlz0Q4HiXIeanyQO5UjcEvSHKK3sEyh9XY+taZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "882310285",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "750914149",
-        "-1230434216",
-        "-353024394",
-        "-1686571485",
-        "-1093480502",
-        "-899599709",
-        "1078827483",
-        "491824726"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-976203148",
-      "hc_lt_id_sptag": "-1158651948",
-      "id_img": "InuYasha_941611_crop2608_-888830059",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieGVPONENDP6L+GUHwJQ8/pGTXQEfW0kU2ovxZXG9bq25Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieGVPONENDP6L+GUHwJQ8/pTbMEd+QwwYWA1hDo4yMRU5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -108,6 +64,51 @@
         "1508952095",
         "1078827483"
       ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-424974172",
+      "hc_lt_id_sptag": "-1476439502",
+      "id_img": "InuYasha_139522_crop2608_412479355",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicTYqKtAcJHb/NR/egT1BNJeqm+7c1ruNl4qzY1wfdA5JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicTYqKtAcJHb/NR/egT1BNJi+B8E+pl1L4J8rYJusJtLZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "882310285",
+        "1728965817"
+      ],
+      "lt_id_sptag": [
+        "1728965817",
+        "-1093480502",
+        "-1366534218"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-976203148",
+      "hc_lt_id_sptag": "-1158651948",
+      "id_img": "InuYasha_941611_crop2608_-888830059",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieGVPONENDP6L+GUHwJQ8/pGTXQEfW0kU2ovxZXG9bq25Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieGVPONENDP6L+GUHwJQ8/pTbMEd+QwwYWA1hDo4yMRU5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "882310285",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "750914149",
+        "-1230434216",
+        "-353024394",
+        "-1686571485",
+        "-1093480502",
+        "-899599709",
+        "1078827483",
+        "491824726"
+      ]
     }
   ],
   "lt_nortag": [
@@ -131,6 +132,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
+    },
     {
       "id_sptag": "491824726",
       "name_cl_sptag": "Girls Cute Cool",

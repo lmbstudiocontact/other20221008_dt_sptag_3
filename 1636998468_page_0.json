@@ -6,9 +6,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-595266817",
+  "hc_lt_data_img": "-1229891709",
   "hc_lt_nortag": "461167091",
-  "hc_lt_sptag": "-1849776599",
+  "hc_lt_sptag": "293305514",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -19,29 +19,23 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1038960747",
-      "hc_lt_id_sptag": "924583828",
-      "id_img": "SeraphoftheEnd_693976_crop2608_72953311",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic2Ac5n88vtPxNAKzbNzFMXWmLyF7jGMlolEc8IAxUlx5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic2Ac5n88vtPxNAKzbNzFMX/bnrB87s/jCELuyjFDgB0JVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "-1341002558",
+      "hc_lt_id_sptag": "881631814",
+      "id_img": "SeraphoftheEnd_740287_crop2608_-1598444747",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieA2Yhb5PIVFQQJvDqpWbbr2uvYCIXCB2/Kcn5l1cVKb5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieA2Yhb5PIVFQQJvDqpWbbr9yWb8zHEZCnghfBhkn7pwZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
         "-1596214973",
-        "-1182628656"
+        "-467032699"
       ],
       "lt_id_sptag": [
-        "-1915687819",
-        "-535632313",
-        "-353024394",
-        "1913692055",
-        "-260062140",
-        "-1096235376",
-        "1078827483",
-        "-1456680780",
-        "1636998468",
-        "-1358769180"
+        "-467032699",
+        "1788396751",
+        "1165487043",
+        "1636998468"
       ]
     },
     {
@@ -73,22 +67,29 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1341002558",
-      "hc_lt_id_sptag": "-1605298413",
-      "id_img": "SeraphoftheEnd_740287_crop2608_-1598444747",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieA2Yhb5PIVFQQJvDqpWbbr2uvYCIXCB2/Kcn5l1cVKb5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieA2Yhb5PIVFQQJvDqpWbbr9yWb8zHEZCnghfBhkn7pwZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "-1038960747",
+      "hc_lt_id_sptag": "924583828",
+      "id_img": "SeraphoftheEnd_693976_crop2608_72953311",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic2Ac5n88vtPxNAKzbNzFMXWmLyF7jGMlolEc8IAxUlx5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic2Ac5n88vtPxNAKzbNzFMX/bnrB87s/jCELuyjFDgB0JVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
         "-1596214973",
-        "-467032699"
+        "-1182628656"
       ],
       "lt_id_sptag": [
-        "1788396751",
-        "1165487043",
-        "1636998468"
+        "-1915687819",
+        "-535632313",
+        "-353024394",
+        "1913692055",
+        "-260062140",
+        "-1096235376",
+        "1078827483",
+        "-1456680780",
+        "1636998468",
+        "-1358769180"
       ]
     },
     {
@@ -144,6 +145,12 @@
       "name_cl_sptag": "bow Clothing",
       "name_parent": "Anime",
       "total": 452
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "491824726",

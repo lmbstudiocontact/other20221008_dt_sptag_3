@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-159353953",
+  "hc_lt_data_img": "1816640799",
   "hc_lt_nortag": "-1317817437",
-  "hc_lt_sptag": "690128680",
+  "hc_lt_sptag": "1892880087",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,24 +17,6 @@
     }
   ],
   "lt_data_img": [
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "153150816",
-      "hc_lt_id_sptag": "-861636706",
-      "id_img": "GoldenTime_702206_crop2608_1429146938",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVTC995RmueFc7DkMciU0WFLOU1M29zkOdXCn3pix4WZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVTC995RmueFc7DkMciU0WDDMr1Yxo6QOUb4CqV46rbJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "102565213",
-        "1728965817"
-      ],
-      "lt_id_sptag": [
-        "-1609126306"
-      ]
-    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-398078160",
@@ -56,6 +38,25 @@
         "-1353196196",
         "-1165766878",
         "491824726"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "153150816",
+      "hc_lt_id_sptag": "-1656786194",
+      "id_img": "GoldenTime_702206_crop2608_1429146938",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVTC995RmueFc7DkMciU0WFLOU1M29zkOdXCn3pix4WZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVTC995RmueFc7DkMciU0WDDMr1Yxo6QOUb4CqV46rbJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "102565213",
+        "1728965817"
+      ],
+      "lt_id_sptag": [
+        "1728965817",
+        "-1609126306"
       ]
     }
   ],
@@ -80,6 +81,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
+    },
     {
       "id_sptag": "491824726",
       "name_cl_sptag": "Girls Cute Cool",

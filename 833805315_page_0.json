@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-2135683444",
+  "hc_lt_data_img": "-1170116392",
   "hc_lt_nortag": "1137393232",
-  "hc_lt_sptag": "337771743",
+  "hc_lt_sptag": "610701104",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -19,31 +19,8 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1194446748",
-      "hc_lt_id_sptag": "749848581",
-      "id_img": "DragonBallSuper_593278_crop2608_-1958440532",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXnHD9H9Dx0IOHsAHMWUb+pZ4cNHihVq5C1xLPozmemJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXnHD9H9Dx0IOHsAHMWUb+4vMMdV7jppmEoWPiF5004ZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "1400320448"
-      ],
-      "lt_id_sptag": [
-        "1097983947",
-        "1791116166",
-        "833805315",
-        "-416282299",
-        "-841908461",
-        "1657649549"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "795716792",
-      "hc_lt_id_sptag": "-1490483222",
+      "hc_lt_id_sptag": "-1537946665",
       "id_img": "Crossover_735122_crop2608_1665101320",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifKiydAAOnSUV4+yNNm9om9qC+nvrwkohbKX/n5R7YpOZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifKiydAAOnSUV4+yNNm9om9GOQwM1iAHHxGGsxd6onm85Vy4706IhQgSYlgwrgVRHU=",
@@ -55,12 +32,37 @@
         "1213914829"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "-510384823",
         "833805315",
         "-764134086",
         "913802826",
         "1265630670",
         "2137211747"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1194446748",
+      "hc_lt_id_sptag": "702385138",
+      "id_img": "DragonBallSuper_593278_crop2608_-1958440532",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXnHD9H9Dx0IOHsAHMWUb+pZ4cNHihVq5C1xLPozmemJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXnHD9H9Dx0IOHsAHMWUb+4vMMdV7jppmEoWPiF5004ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "1400320448"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "1097983947",
+        "1791116166",
+        "833805315",
+        "-416282299",
+        "-841908461",
+        "1657649549"
       ]
     }
   ],
@@ -102,6 +104,12 @@
       "name_cl_sptag": "Boku no Hero Academia",
       "name_parent": "Anime",
       "total": 50
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "913802826",

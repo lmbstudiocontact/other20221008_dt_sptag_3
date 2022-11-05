@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1702103613",
+  "hc_lt_data_img": "-133831517",
   "hc_lt_nortag": "279177734",
-  "hc_lt_sptag": "64719707",
+  "hc_lt_sptag": "556040638",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,25 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1564153539",
-      "hc_lt_id_sptag": "83291427",
-      "id_img": "TokyoGhoulre_923871_crop2608_1954399735",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicSPK7U9PDpMgHiGSF5rNEPOwdEQgQUori8p/nInDoO+JVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicSPK7U9PDpMgHiGSF5rNEP1oRNcA5MZOV5JkD4W77yd5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "104726551"
-      ],
-      "lt_id_sptag": [
-        "1957702971"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1564153539",
-      "hc_lt_id_sptag": "83291427",
+      "hc_lt_id_sptag": "-1393448682",
       "id_img": "TokyoGhoulre_933446_crop2608_471083356",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidu3JMWsjaE02d7BocjfFBIE5QmcwiOitZ2BN3b1++0ppVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidu3JMWsjaE02d7BocjfFBI4Gxz1dFwLEGH3gMXQlN7AJVy4706IhQgSYlgwrgVRHU=",
@@ -50,6 +32,26 @@
         "104726551"
       ],
       "lt_id_sptag": [
+        "-467032699",
+        "1957702971"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1564153539",
+      "hc_lt_id_sptag": "-1393448682",
+      "id_img": "TokyoGhoulre_923871_crop2608_1954399735",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicSPK7U9PDpMgHiGSF5rNEPOwdEQgQUori8p/nInDoO+JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicSPK7U9PDpMgHiGSF5rNEP1oRNcA5MZOV5JkD4W77yd5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "104726551"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
         "1957702971"
       ]
     }
@@ -69,6 +71,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "1957702971",
       "name_cl_sptag": "Kichimura Washuu",

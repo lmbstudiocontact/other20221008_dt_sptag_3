@@ -6,9 +6,9 @@
   "total_img": 6,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "1917437310",
+  "hc_lt_data_img": "1874943056",
   "hc_lt_nortag": "2136123410",
-  "hc_lt_sptag": "-1083489387",
+  "hc_lt_sptag": "-1370477256",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,44 +17,6 @@
     }
   ],
   "lt_data_img": [
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "412600634",
-      "hc_lt_id_sptag": "-51941576",
-      "id_img": "YuYuHakusho_756229_crop2608_-1014954785",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMpLrwDwT+nFGCZbOT8xh8NpUwZjXBq/xUBCeMNFNLA5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMpLrwDwT+nFGCZbOT8xh89P3CeFMJelYUtlUK/J2V45Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1648901040"
-      ],
-      "lt_id_sptag": [
-        "-490052459",
-        "-1381777507",
-        "633140950"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "412600634",
-      "hc_lt_id_sptag": "-51941576",
-      "id_img": "YuYuHakusho_841642_crop2608_1177941793",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8gThKoVNVmcb/jf8shvIqR026ZjIvRuCm5IVuFLj0P5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8gThKoVNVmcb/jf8shvIqXLMMFVHN2Viy14RhquZ9M5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1648901040"
-      ],
-      "lt_id_sptag": [
-        "-490052459",
-        "-1381777507",
-        "633140950"
-      ]
-    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "412600634",
@@ -76,16 +38,15 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1064139475",
+      "hc_lt_id_nortag": "412600634",
       "hc_lt_id_sptag": "-51941576",
-      "id_img": "YuYuHakusho_841642_crop2608_-19264751",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieGquIS/kjmIAPsFI7KQEaAWQBiD/XgepX+JzlMzhk1BZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieGquIS/kjmIAPsFI7KQEaAcb56XbKJSjdGcOfh4YlxOZVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "YuYuHakusho_974382_crop2608_830114441",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifS7Eg14sH7AJYlAc1Kz4fjXSFiWeyGoAurHS8/DEY/QpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifS7Eg14sH7AJYlAc1Kz4fjO+xhprIlM8PgbF+FyZB4eJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
-        "-467032699",
         "1648901040"
       ],
       "lt_id_sptag": [
@@ -98,9 +59,49 @@
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "412600634",
       "hc_lt_id_sptag": "-51941576",
-      "id_img": "YuYuHakusho_974382_crop2608_830114441",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifS7Eg14sH7AJYlAc1Kz4fjXSFiWeyGoAurHS8/DEY/QpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifS7Eg14sH7AJYlAc1Kz4fjO+xhprIlM8PgbF+FyZB4eJVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "YuYuHakusho_756229_crop2608_-1014954785",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMpLrwDwT+nFGCZbOT8xh8NpUwZjXBq/xUBCeMNFNLA5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMpLrwDwT+nFGCZbOT8xh89P3CeFMJelYUtlUK/J2V45Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1648901040"
+      ],
+      "lt_id_sptag": [
+        "-490052459",
+        "-1381777507",
+        "633140950"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1064139475",
+      "hc_lt_id_sptag": "-1859978645",
+      "id_img": "YuYuHakusho_841642_crop2608_-19264751",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieGquIS/kjmIAPsFI7KQEaAWQBiD/XgepX+JzlMzhk1BZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieGquIS/kjmIAPsFI7KQEaAcb56XbKJSjdGcOfh4YlxOZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "1648901040"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "-490052459",
+        "-1381777507",
+        "633140950"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "412600634",
+      "hc_lt_id_sptag": "-51941576",
+      "id_img": "YuYuHakusho_841642_crop2608_1177941793",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8gThKoVNVmcb/jf8shvIqR026ZjIvRuCm5IVuFLj0P5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8gThKoVNVmcb/jf8shvIqXLMMFVHN2Viy14RhquZ9M5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -148,6 +149,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "-490052459",
       "name_cl_sptag": "Hiei Yu Yu Hakusho",

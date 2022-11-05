@@ -6,9 +6,9 @@
   "total_img": 16,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-405458761",
+  "hc_lt_data_img": "450958181",
   "hc_lt_nortag": "-1719994075",
-  "hc_lt_sptag": "1232472824",
+  "hc_lt_sptag": "522571338",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -19,32 +19,11 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1417892952",
-      "hc_lt_id_sptag": "1071100398",
-      "id_img": "NeonGenesisEvangelion_846746_crop2608_-1509981332",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4KFHsvKBojG5fu4aLK/G2W7nHcGoYQK+Rf9WA8oKtdZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4KFHsvKBojG5fu4aLK/G2XrbXCm07bDAIs+HHzWDHoJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-491404909"
-      ],
-      "lt_id_sptag": [
-        "-1730700208",
-        "1120806312",
-        "980196807",
-        "705704068",
-        "1219777483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "945911867",
-      "hc_lt_id_sptag": "-1927206525",
-      "id_img": "Evangelion30YouCanNotRedo_850323_crop2608_-1157341958",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvAIPAHjnBV1wqc8ukUH9OcoObTItY5OFWImGXe0KXxpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvAIPAHjnBV1wqc8ukUH9Oc2DyJx1Fzj35X6nPrZ1YUJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "444385749",
+      "id_img": "Evangelion30YouCanNotRedo_850323_crop2608_1676297575",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifyTIHJYeMondyHRmA0R+jwV3dgRHYhebnmckLa/p+fGpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifyTIHJYeMondyHRmA0R+jwc+sgRo+zxOMVkUZJWORTK5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -53,121 +32,21 @@
         "-1182628656"
       ],
       "lt_id_sptag": [
-        "-561045702",
+        "-1915687819",
+        "1545739930",
         "-1730700208",
+        "-1230434216",
         "1120806312",
         "980196807",
         "-353024394",
-        "643795693",
-        "376240968",
-        "1627623413",
+        "-1450260536",
         "1541647243",
+        "1813151526",
         "-45397480",
         "1078827483",
         "491824726",
-        "1219777483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1400334235",
-      "hc_lt_id_sptag": "1589778843",
-      "id_img": "NeonGenesisEvangelion_846734_crop2608_49894853",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif9ZWSP7J2abfk406kWDP5TxzOD6CPH3WjSnA+Ra8AfRJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif9ZWSP7J2abfk406kWDP5T/U+FFP8803iz31U+aqIXipVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "-491404909"
-      ],
-      "lt_id_sptag": [
-        "1956034203",
-        "-1216236529",
-        "1120806312",
-        "1219777483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1417892952",
-      "hc_lt_id_sptag": "619305441",
-      "id_img": "NeonGenesisEvangelion_51108_crop2608_924503384",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifOZtEQ8MDyCFMmiF3CIhQWysvO8jMOCdKp3XXmtq8QMZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifOZtEQ8MDyCFMmiF3CIhQWomQmoDQ7yog6HC/mYqWFTZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-491404909"
-      ],
-      "lt_id_sptag": [
-        "-1730700208",
-        "1120806312",
-        "980196807",
-        "1219777483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "945563898",
-      "hc_lt_id_sptag": "-1044087072",
-      "id_img": "Evangelion30YouCanNotRedo_829478_crop2608_1574459868",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif56Ijy0mzIMePLOeNAbc0FC9wBgNJB5oST68TyFJFfcJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif56Ijy0mzIMePLOeNAbc0FPgafMkturMPwMRmFhlOzP5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "-1881318544"
-      ],
-      "lt_id_sptag": [
-        "1219777483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1417892952",
-      "hc_lt_id_sptag": "1071100398",
-      "id_img": "NeonGenesisEvangelion_846746_crop2608_-1740503002",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicSMshUT6L0RPDzAwSvkjkcE+koLxPotO02d50rFcW0J5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicSMshUT6L0RPDzAwSvkjkc/pdfdAoBFoaLSQTncMz6lZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-491404909"
-      ],
-      "lt_id_sptag": [
-        "-1730700208",
-        "1120806312",
-        "980196807",
-        "705704068",
-        "1219777483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "945563898",
-      "hc_lt_id_sptag": "1106891224",
-      "id_img": "Evangelion30YouCanNotRedo_850323_crop2608_262806027",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejfcuEAT6cttN3wx1E3223IGq5PhyMKdiXwvdR2RxToJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejfcuEAT6cttN3wx1E3223VDLpP/EUugyKXWn0ggq50ZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "-1881318544"
-      ],
-      "lt_id_sptag": [
-        "-1730700208",
-        "1120806312",
-        "980196807",
-        "-45397480",
-        "1219777483"
+        "1219777483",
+        "1410951528"
       ]
     },
     {
@@ -224,6 +103,78 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "945911867",
+      "hc_lt_id_sptag": "-1927206525",
+      "id_img": "Evangelion30YouCanNotRedo_850323_crop2608_-1157341958",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvAIPAHjnBV1wqc8ukUH9OcoObTItY5OFWImGXe0KXxpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvAIPAHjnBV1wqc8ukUH9Oc2DyJx1Fzj35X6nPrZ1YUJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1881318544",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-561045702",
+        "-1730700208",
+        "1120806312",
+        "980196807",
+        "-353024394",
+        "643795693",
+        "376240968",
+        "1627623413",
+        "1541647243",
+        "-45397480",
+        "1078827483",
+        "491824726",
+        "1219777483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1872663289",
+      "hc_lt_id_sptag": "321167922",
+      "id_img": "Evangelion30YouCanNotRedo_934875_crop2608_1902141602",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicLymXLNTvXR2Fbz8JmAn2gVW7YaldEaE4Lbjd/vLGkCJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicLymXLNTvXR2Fbz8JmAn2gvaf3dwwhmaynzUEATlk42JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1881318544"
+      ],
+      "lt_id_sptag": [
+        "1120806312",
+        "980196807",
+        "1219777483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-346423878",
+      "hc_lt_id_sptag": "-1301095894",
+      "id_img": "Evangelion20YouCanNotAdvance_118295_crop2608_1045797092",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicedKclCOkl6Efp2pZu7tRsM6gj9xv3znBrXpdklDV0iZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicedKclCOkl6Efp2pZu7tRsH2etZ7ZjVmeUokP0MDZFTpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-737681725",
+        "1728965817"
+      ],
+      "lt_id_sptag": [
+        "-1730700208",
+        "1120806312",
+        "980196807",
+        "1728965817",
+        "-45397480",
+        "1219777483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1417892952",
       "hc_lt_id_sptag": "-1286697265",
       "id_img": "NeonGenesisEvangelion_47536_crop2608_737616850",
@@ -274,20 +225,66 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1872663289",
-      "hc_lt_id_sptag": "321167922",
-      "id_img": "Evangelion30YouCanNotRedo_934875_crop2608_1902141602",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicLymXLNTvXR2Fbz8JmAn2gVW7YaldEaE4Lbjd/vLGkCJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicLymXLNTvXR2Fbz8JmAn2gvaf3dwwhmaynzUEATlk42JVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "945563898",
+      "hc_lt_id_sptag": "-1249944501",
+      "id_img": "Evangelion30YouCanNotRedo_850323_crop2608_262806027",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejfcuEAT6cttN3wx1E3223IGq5PhyMKdiXwvdR2RxToJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejfcuEAT6cttN3wx1E3223VDLpP/EUugyKXWn0ggq50ZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
+        "-467032699",
         "-1881318544"
       ],
       "lt_id_sptag": [
+        "-467032699",
+        "-1730700208",
         "1120806312",
         "980196807",
+        "-45397480",
+        "1219777483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1417892952",
+      "hc_lt_id_sptag": "1071100398",
+      "id_img": "NeonGenesisEvangelion_846746_crop2608_-1509981332",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4KFHsvKBojG5fu4aLK/G2W7nHcGoYQK+Rf9WA8oKtdZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4KFHsvKBojG5fu4aLK/G2XrbXCm07bDAIs+HHzWDHoJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-491404909"
+      ],
+      "lt_id_sptag": [
+        "-1730700208",
+        "1120806312",
+        "980196807",
+        "705704068",
+        "1219777483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1417892952",
+      "hc_lt_id_sptag": "1071100398",
+      "id_img": "NeonGenesisEvangelion_846746_crop2608_-1740503002",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicSMshUT6L0RPDzAwSvkjkcE+koLxPotO02d50rFcW0J5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicSMshUT6L0RPDzAwSvkjkc/pdfdAoBFoaLSQTncMz6lZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-491404909"
+      ],
+      "lt_id_sptag": [
+        "-1730700208",
+        "1120806312",
+        "980196807",
+        "705704068",
         "1219777483"
       ]
     },
@@ -303,60 +300,6 @@
       ],
       "list_id_nortag": [
         "-1881318544"
-      ],
-      "lt_id_sptag": [
-        "-1730700208",
-        "1120806312",
-        "980196807",
-        "-45397480",
-        "1219777483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "945911867",
-      "hc_lt_id_sptag": "444385749",
-      "id_img": "Evangelion30YouCanNotRedo_850323_crop2608_1676297575",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifyTIHJYeMondyHRmA0R+jwV3dgRHYhebnmckLa/p+fGpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifyTIHJYeMondyHRmA0R+jwc+sgRo+zxOMVkUZJWORTK5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-1881318544",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1915687819",
-        "1545739930",
-        "-1730700208",
-        "-1230434216",
-        "1120806312",
-        "980196807",
-        "-353024394",
-        "-1450260536",
-        "1541647243",
-        "1813151526",
-        "-45397480",
-        "1078827483",
-        "491824726",
-        "1219777483",
-        "1410951528"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-346423878",
-      "hc_lt_id_sptag": "1106891224",
-      "id_img": "Evangelion20YouCanNotAdvance_118295_crop2608_1045797092",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicedKclCOkl6Efp2pZu7tRsM6gj9xv3znBrXpdklDV0iZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicedKclCOkl6Efp2pZu7tRsH2etZ7ZjVmeUokP0MDZFTpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-737681725",
-        "1728965817"
       ],
       "lt_id_sptag": [
         "-1730700208",
@@ -398,6 +341,67 @@
         "491824726",
         "1219777483",
         "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1417892952",
+      "hc_lt_id_sptag": "619305441",
+      "id_img": "NeonGenesisEvangelion_51108_crop2608_924503384",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifOZtEQ8MDyCFMmiF3CIhQWysvO8jMOCdKp3XXmtq8QMZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifOZtEQ8MDyCFMmiF3CIhQWomQmoDQ7yog6HC/mYqWFTZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-491404909"
+      ],
+      "lt_id_sptag": [
+        "-1730700208",
+        "1120806312",
+        "980196807",
+        "1219777483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "945563898",
+      "hc_lt_id_sptag": "1774140115",
+      "id_img": "Evangelion30YouCanNotRedo_829478_crop2608_1574459868",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif56Ijy0mzIMePLOeNAbc0FC9wBgNJB5oST68TyFJFfcJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif56Ijy0mzIMePLOeNAbc0FPgafMkturMPwMRmFhlOzP5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-1881318544"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "1219777483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1400334235",
+      "hc_lt_id_sptag": "1375204552",
+      "id_img": "NeonGenesisEvangelion_846734_crop2608_49894853",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif9ZWSP7J2abfk406kWDP5TxzOD6CPH3WjSnA+Ra8AfRJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif9ZWSP7J2abfk406kWDP5T/U+FFP8803iz31U+aqIXipVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-491404909"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "1956034203",
+        "-1216236529",
+        "1120806312",
+        "1219777483"
       ]
     }
   ],
@@ -451,6 +455,18 @@
       "name_cl_sptag": "Boy Sad",
       "name_parent": "Anime",
       "total": 1551
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "514321062",

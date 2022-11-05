@@ -6,9 +6,9 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-229676236",
+  "hc_lt_data_img": "1834107721",
   "hc_lt_nortag": "-1241821815",
-  "hc_lt_sptag": "755112821",
+  "hc_lt_sptag": "-1641623138",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,26 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "258504741",
-      "hc_lt_id_sptag": "-912426344",
-      "id_img": "MagiTheLabyrinthOfMagic_714089_crop2608_1256701078",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQMnifc4reTLnmrjpadIj5/HiQLQpsSnlczJKvgz2QSpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQMnifc4reTLnmrjpadIj5J4im8mQ9EK/o96D0H/XMZpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "40846551"
-      ],
-      "lt_id_sptag": [
-        "-1366759035",
-        "1092057876"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "258504741",
-      "hc_lt_id_sptag": "-355192187",
+      "hc_lt_id_sptag": "-1831932296",
       "id_img": "MagiTheLabyrinthOfMagic_814008_crop2608_-870368836",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemx8zpjdHTXSNR96r0jtMi/RSFWXn9xpiKV0DCLXNRnJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemx8zpjdHTXSNR96r0jtMigYf/8I5dbfaV5u8Z+Gw5RJVy4706IhQgSYlgwrgVRHU=",
@@ -51,13 +32,14 @@
         "40846551"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "-1366759035"
       ]
     },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "258504741",
-      "hc_lt_id_sptag": "-355192187",
+      "hc_lt_id_sptag": "-1831932296",
       "id_img": "MagiTheLabyrinthOfMagic_864564_crop2608_1170342588",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicG0zoHE5dymfALZunzWSS2OrVz6e5f6sBdFVT5M/QzppVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicG0zoHE5dymfALZunzWSS2pMXlXIh6Z6SKOEcRm5RC05Vy4706IhQgSYlgwrgVRHU=",
@@ -69,7 +51,28 @@
         "40846551"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "-1366759035"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "258504741",
+      "hc_lt_id_sptag": "553270533",
+      "id_img": "MagiTheLabyrinthOfMagic_714089_crop2608_1256701078",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQMnifc4reTLnmrjpadIj5/HiQLQpsSnlczJKvgz2QSpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQMnifc4reTLnmrjpadIj5J4im8mQ9EK/o96D0H/XMZpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "40846551"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "-1366759035",
+        "1092057876"
       ]
     }
   ],
@@ -93,6 +96,12 @@
       "name_cl_sptag": "Aladdin Magi",
       "name_parent": "Anime",
       "total": 9
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "-1366759035",

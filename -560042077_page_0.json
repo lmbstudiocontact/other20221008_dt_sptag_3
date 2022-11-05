@@ -1,0 +1,476 @@
+{
+  "id_sptag": "-560042077",
+  "index_page": 0,
+  "name_cl_sptag": "Hyundai Genesis",
+  "name_parent": "Car",
+  "total_img": 15,
+  "total_page": 0,
+  "hc_lt_alb": "51650555",
+  "hc_lt_data_img": "712317783",
+  "hc_lt_nortag": "-879148945",
+  "hc_lt_sptag": "-587934429",
+  "lt_alb": [
+    {
+      "id_alb": "67508",
+      "name_alb": "Car",
+      "total_img": 21900
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1512707144",
+      "hc_lt_id_sptag": "239377684",
+      "id_img": "2013-Hyundai-HCD-14-Genesis-Concept-V3-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie1ez8Srv/6og485uWjhXmcjATrzpdOyt+XD5AD3gz4sZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie1ez8Srv/6og485uWjhXmc2If09sG8HG8gYijbdA/U8ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-625080575",
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "-1950586279",
+        "517905166",
+        "-560042077",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1512707144",
+      "hc_lt_id_sptag": "-654546159",
+      "id_img": "2017-Hyundai-Genesis-G90-V3-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/ho2woUD3KpIyHclTBkOeSbT3Nnm+4+2SCqDm3IVjRZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/ho2woUD3KpIyHclTBkOeK+ycYW2xbiKDrOFQtctC+5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-625080575",
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "-1946892195",
+        "1230660711",
+        "-560042077"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1512707144",
+      "hc_lt_id_sptag": "2038730463",
+      "id_img": "2013-Hyundai-Genesis-Coupe-V4-1440_crop_3_right",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic9CqDLVfYZYwtbFmt7GwSV6uIAtXBVLjF7HlvNVYXAG5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic9CqDLVfYZYwtbFmt7GwSVgYgGqnZ0+buJid4+pDEh0JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-625080575",
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "-1950586279",
+        "-1339099097",
+        "-895678569",
+        "-560042077"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-904808842",
+      "hc_lt_id_sptag": "2001118221",
+      "id_img": "2018-Genesis-Essentia-Concept-V4-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie4/3fLqhUuWOFNnYk0NBkQULKwJ/fGe+m1S5drYxzmgZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie4/3fLqhUuWOFNnYk0NBkQUalBba1ZI+5IhjcItV3rdpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-625080575"
+      ],
+      "lt_id_sptag": [
+        "1034147206",
+        "-560042077",
+        "-1945968674",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1512707144",
+      "hc_lt_id_sptag": "2415046",
+      "id_img": "2011-Hyundai-Genesis-Coupe-R-Spec-V2-1536_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiftXg7mVJ64w0S1ZriIAyAichOHHufM9S074fqN60txA5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiftXg7mVJ64w0S1ZriIAyAi/XiDLTkG3ofkwS1YtHu0TZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-625080575",
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "-895678569",
+        "-1952433321",
+        "-560042077",
+        "-81656431"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-904808842",
+      "hc_lt_id_sptag": "1657367911",
+      "id_img": "2018-Genesis-G80-Sport-V1-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicRQae1hQNLDIXtILy4NbbPuhLf8SXTY7UyW83sfzYzrZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicRQae1hQNLDIXtILy4NbbPZuHQh+ON/LrrvEAp6Ryoo5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-625080575"
+      ],
+      "lt_id_sptag": [
+        "1623687721",
+        "1033687757",
+        "-560042077",
+        "-1945968674"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1512707144",
+      "hc_lt_id_sptag": "-665475725",
+      "id_img": "2011-Hyundai-Genesis-Coupe-R-Spec-V3-1536_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifpTzBQb9K/J1ai+RHy3UedWzJe9gTYisnifZAekQ2GOZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifpTzBQb9K/J1ai+RHy3UedUmhvMElKk5yEi4imMMKOw5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-625080575",
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "-895678569",
+        "-1952433321",
+        "-560042077",
+        "-278169936"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1512707144",
+      "hc_lt_id_sptag": "-896219047",
+      "id_img": "2011-Hyundai-Genesis-Coupe-R-Spec-V4-1536_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifsF3yv0n+kofGiffoWAWgDT5ToXkIVUKlpHKt8jJxlOZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifsF3yv0n+kofGiffoWAWgDSraFNOMunHAwAIvTbPsFx5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-625080575",
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "-474683441",
+        "-895678569",
+        "-1952433321",
+        "-560042077"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1512707144",
+      "hc_lt_id_sptag": "-841029563",
+      "id_img": "2013-Hyundai-Genesis-Coupe-V7-1536_crop_3_right",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicx62tGa4ltwnsKWlvM9sfWCQ37kDgbhoK+dn8RZhwEIJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicx62tGa4ltwnsKWlvM9sfWx0Ub5oeaAIET+9vSMsFGt5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-625080575",
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "-1950586279",
+        "-895678569",
+        "-560042077",
+        "-1064223956"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-904808842",
+      "hc_lt_id_sptag": "15015180",
+      "id_img": "2018-Genesis-Essentia-Concept-V3-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidoMRNNlzz2lONA/nJpqe6rYtRoSZIzVPRy1YkOQLhS+5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidoMRNNlzz2lONA/nJpqe6rsZrVNSAlOz0xzcjumGctupVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-625080575"
+      ],
+      "lt_id_sptag": [
+        "1230660711",
+        "-560042077",
+        "-1945968674",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-904808842",
+      "hc_lt_id_sptag": "1425760117",
+      "id_img": "2021-Genesis-G80-V2-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidOfQpuKgaAuStrdmSQMR+E0lTvA1dIQeshMA28d6WXG5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidOfQpuKgaAuStrdmSQMR+EityZw3TSVXYZU9YNxgrVDZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-625080575"
+      ],
+      "lt_id_sptag": [
+        "-560042077",
+        "-1808514493",
+        "-1923804170"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-904808842",
+      "hc_lt_id_sptag": "-1447075030",
+      "id_img": "2018-Genesis-Essentia-Concept-V1-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6xFCl61DdA50lC5Q9eAQHarlHUaSfTjkXy+RD4iVlGJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6xFCl61DdA50lC5Q9eAQHlA2JC7et8TAYJQ0ZhVd7V5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-625080575"
+      ],
+      "lt_id_sptag": [
+        "1623687721",
+        "-560042077",
+        "-1945968674",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1512707144",
+      "hc_lt_id_sptag": "2115626397",
+      "id_img": "2015-Hyundai-Genesis-V1-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifgIhLg6UEnWiMkjn1M1JcVMsyDZ0hDNFSFF5juopQYiZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifgIhLg6UEnWiMkjn1M1JcV25z4wyukkbcKF4fRuTz/0JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-625080575",
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "910932176",
+        "-560042077",
+        "-1948739237"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1512707144",
+      "hc_lt_id_sptag": "472589452",
+      "id_img": "2011-Hyundai-Genesis-Coupe-R-Spec-V1-1536_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1O+lrSgP7Z89vhLoBs2GVMLAzTGWOEso2kbr0OQoa/JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1O+lrSgP7Z89vhLoBs2GV3YK2lhdq1zm8jjtWsOeN35Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-625080575",
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "-895678569",
+        "-1952433321",
+        "-560042077",
+        "114857074"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1512707144",
+      "hc_lt_id_sptag": "-309527722",
+      "id_img": "2013-Hyundai-HCD-14-Genesis-Concept-V1-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie46GHxODa+lULHKQefwfbcNfUj0FHB78azKD1PmHyxmZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie46GHxODa+lULHKQefwfbc4mTk6cJ6WUCQbfpSQEYEbZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-625080575",
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "-1950586279",
+        "910932176",
+        "-560042077",
+        "1773147073"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-625080575",
+      "name_cl_nortag": "Genesis",
+      "total_img": 18,
+      "name_parent": "Car"
+    },
+    {
+      "id_nortag": "309855291",
+      "name_cl_nortag": "Hyundai",
+      "total_img": 207,
+      "name_parent": "Car"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1952433321",
+      "name_cl_sptag": "2011",
+      "name_parent": "Car",
+      "total": 374
+    },
+    {
+      "id_sptag": "-1950586279",
+      "name_cl_sptag": "2013",
+      "name_parent": "Car",
+      "total": 637
+    },
+    {
+      "id_sptag": "-1948739237",
+      "name_cl_sptag": "2015",
+      "name_parent": "Car",
+      "total": 885
+    },
+    {
+      "id_sptag": "-1946892195",
+      "name_cl_sptag": "2017",
+      "name_parent": "Car",
+      "total": 640
+    },
+    {
+      "id_sptag": "-1945968674",
+      "name_cl_sptag": "2018",
+      "name_parent": "Car",
+      "total": 588
+    },
+    {
+      "id_sptag": "-1923804170",
+      "name_cl_sptag": "2021",
+      "name_parent": "Car",
+      "total": 96
+    },
+    {
+      "id_sptag": "1773147073",
+      "name_cl_sptag": "Concept",
+      "name_parent": "Car",
+      "total": 1117
+    },
+    {
+      "id_sptag": "-895678569",
+      "name_cl_sptag": "Coupe",
+      "name_parent": "Car",
+      "total": 324
+    },
+    {
+      "id_sptag": "-560042077",
+      "name_cl_sptag": "Hyundai Genesis",
+      "name_parent": "Car",
+      "total": 15
+    },
+    {
+      "id_sptag": "1033687757",
+      "name_cl_sptag": "Sport",
+      "name_parent": "Car",
+      "total": 373
+    },
+    {
+      "id_sptag": "114857074",
+      "name_cl_sptag": "V1-1536",
+      "name_parent": "Car",
+      "total": 275
+    },
+    {
+      "id_sptag": "910932176",
+      "name_cl_sptag": "V1-1600",
+      "name_parent": "Car",
+      "total": 515
+    },
+    {
+      "id_sptag": "1623687721",
+      "name_cl_sptag": "V1-2000",
+      "name_parent": "Car",
+      "total": 384
+    },
+    {
+      "id_sptag": "-81656431",
+      "name_cl_sptag": "V2-1536",
+      "name_parent": "Car",
+      "total": 166
+    },
+    {
+      "id_sptag": "-1808514493",
+      "name_cl_sptag": "V2-2160",
+      "name_parent": "Car",
+      "total": 104
+    },
+    {
+      "id_sptag": "-278169936",
+      "name_cl_sptag": "V3-1536",
+      "name_parent": "Car",
+      "total": 199
+    },
+    {
+      "id_sptag": "517905166",
+      "name_cl_sptag": "V3-1600",
+      "name_parent": "Car",
+      "total": 381
+    },
+    {
+      "id_sptag": "1230660711",
+      "name_cl_sptag": "V3-2000",
+      "name_parent": "Car",
+      "total": 278
+    },
+    {
+      "id_sptag": "-1339099097",
+      "name_cl_sptag": "V4-1440",
+      "name_parent": "Car",
+      "total": 254
+    },
+    {
+      "id_sptag": "-474683441",
+      "name_cl_sptag": "V4-1536",
+      "name_parent": "Car",
+      "total": 160
+    },
+    {
+      "id_sptag": "1034147206",
+      "name_cl_sptag": "V4-2000",
+      "name_parent": "Car",
+      "total": 216
+    },
+    {
+      "id_sptag": "-1064223956",
+      "name_cl_sptag": "V7-1536",
+      "name_parent": "Car",
+      "total": 72
+    }
+  ]
+}

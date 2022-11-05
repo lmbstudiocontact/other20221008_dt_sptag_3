@@ -6,9 +6,9 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "37059921",
+  "hc_lt_data_img": "1106537516",
   "hc_lt_nortag": "-2090822165",
-  "hc_lt_sptag": "1202295074",
+  "hc_lt_sptag": "-1468577711",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1317459793",
-      "hc_lt_id_sptag": "1839878038",
+      "hc_lt_id_sptag": "-1334919610",
       "id_img": "MoujuutsukaitoOujisama_833140_crop2608_1279743619",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicyhvNqd4FJQ/E/cNxqHtBs7TngiqeO6CmnipflBFAwV5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicyhvNqd4FJQ/E/cNxqHtBshSXSMmA9Af1dF/TROENgsJVy4706IhQgSYlgwrgVRHU=",
@@ -32,6 +32,7 @@
         "2113557017"
       ],
       "lt_id_sptag": [
+        "1728965817",
         "1153223482",
         "2046091655"
       ]
@@ -52,6 +53,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
+    },
     {
       "id_sptag": "2046091655",
       "name_cl_sptag": "Lucia Moujuutsukai to Oujisama",

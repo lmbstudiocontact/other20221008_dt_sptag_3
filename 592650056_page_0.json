@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "364287602",
+  "hc_lt_data_img": "1975439938",
   "hc_lt_nortag": "842880966",
-  "hc_lt_sptag": "1264387975",
+  "hc_lt_sptag": "-684532348",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,26 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "326641746",
-      "hc_lt_id_sptag": "1229024539",
-      "id_img": "ToukenRanbu_806217_crop2608_-183409901",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8a4SnBnGNam9wZlZySfMpx98VNfiJFSSyOHs0kHTJM5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8a4SnBnGNam9wZlZySfMpV98BlQhEMcPVdANPD4wUYpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "903932837"
-      ],
-      "lt_id_sptag": [
-        "-1945336257",
-        "592650056"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "326641746",
-      "hc_lt_id_sptag": "-2022922355",
+      "hc_lt_id_sptag": "795304832",
       "id_img": "ToukenRanbu_819504_crop2608_323676306",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidea5LduwPzpSBsh7yH+kGNq4GuVnuWeAosJvF3pm11spVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidea5LduwPzpSBsh7yH+kGNyxTx5OnuVWmeJqSj9eWzN5Vy4706IhQgSYlgwrgVRHU=",
@@ -51,6 +32,27 @@
         "903932837"
       ],
       "lt_id_sptag": [
+        "-467032699",
+        "592650056"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "326641746",
+      "hc_lt_id_sptag": "-1600245880",
+      "id_img": "ToukenRanbu_806217_crop2608_-183409901",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8a4SnBnGNam9wZlZySfMpx98VNfiJFSSyOHs0kHTJM5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8a4SnBnGNam9wZlZySfMpV98BlQhEMcPVdANPD4wUYpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "903932837"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "-1945336257",
         "592650056"
       ]
     }
@@ -70,6 +72,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "592650056",
       "name_cl_sptag": "Imanotsurugi Touken Ranbu",

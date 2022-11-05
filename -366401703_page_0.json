@@ -6,9 +6,9 @@
   "total_img": 9,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1242822653",
+  "hc_lt_data_img": "1957435602",
   "hc_lt_nortag": "-570314566",
-  "hc_lt_sptag": "183512803",
+  "hc_lt_sptag": "-172096982",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,10 +20,10 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "2095367243",
-      "hc_lt_id_sptag": "-1643080234",
-      "id_img": "KagerouProject_977246_crop2608_205196010",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsXgcT+MoVKbqYsE0OWQ3rri3YAfGcAF721DGHB0c535Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsXgcT+MoVKbqYsE0OWQ3rJuuzsNVeBuf6Ck+CQDM1/5Vy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-721202176",
+      "id_img": "KagerouProject_967335_crop2608_1158399754",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiczVvaraaeM2AdLMAczBmCo7AYdyKozffQr1zMgCr6L1pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiczVvaraaeM2AdLMAczBmCoh6sh/4wS/C8yK5NYN5XzMpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -38,46 +38,19 @@
         "2039769746",
         "1574808216",
         "-1995107884",
+        "-1235382358",
         "1818726770",
+        "1954999049",
         "-1822749470"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-599193225",
-      "hc_lt_id_sptag": "-1956816592",
-      "id_img": "KagerouProject_557197_crop2608_-418325026",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidW6FnY5ufmUJbP1C3fzKAsWJzpifcukw5Xjop5M2EGQZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidW6FnY5ufmUJbP1C3fzKAsnyoyAeKSdi6lu9kF90YA5ZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-1220928906",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1915687819",
-        "-1230434216",
-        "1239786419",
-        "-366401703",
-        "-5451261",
-        "1541647243",
-        "1813151526",
-        "768898453",
-        "1078827483",
-        "491824726",
-        "1410951528",
-        "1954999049"
       ]
     },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "2095367243",
       "hc_lt_id_sptag": "-1643080234",
-      "id_img": "KagerouProject_977246_crop2608_1110259543",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidM+il3nSH6YQiMMK2/VN9uXbq8WPGjDxt+V/gxNKA9aZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidM+il3nSH6YQiMMK2/VN9uaKybByiK1JWR6LU/eQqLM5Vy4706IhQgSYlgwrgVRHU=",
+      "id_img": "KagerouProject_977246_crop2608_205196010",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsXgcT+MoVKbqYsE0OWQ3rri3YAfGcAF721DGHB0c535Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsXgcT+MoVKbqYsE0OWQ3rJuuzsNVeBuf6Ck+CQDM1/5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -150,30 +123,40 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1300217755",
-      "hc_lt_id_sptag": "15273070",
-      "id_img": "KagerouProject_967333_crop2608_163137365",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieEle3HcdU7n60lCQuXp4BsaWm//viFVViCtKxpaJxb4ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieEle3HcdU7n60lCQuXp4Bs65SENCVhZo70jrC7h3izE5Vy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "-599193225",
+      "hc_lt_id_sptag": "-1956816592",
+      "id_img": "KagerouProject_557197_crop2608_-418325026",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidW6FnY5ufmUJbP1C3fzKAsWJzpifcukw5Xjop5M2EGQZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidW6FnY5ufmUJbP1C3fzKAsnyoyAeKSdi6lu9kF90YA5ZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
-        "1728965817",
-        "-1220928906"
+        "-1220928906",
+        "-1182628656"
       ],
       "lt_id_sptag": [
+        "-1915687819",
+        "-1230434216",
+        "1239786419",
         "-366401703",
-        "1574808216"
+        "-5451261",
+        "1541647243",
+        "1813151526",
+        "768898453",
+        "1078827483",
+        "491824726",
+        "1410951528",
+        "1954999049"
       ]
     },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "2095367243",
       "hc_lt_id_sptag": "-1643080234",
-      "id_img": "KagerouProject_967334_crop2608_803471670",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifckU208mF+ZBZXqWQkls72s6lhHtTre8ws9ACEQiycNZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifckU208mF+ZBZXqWQkls72QXUALKpriIoyVYXVfRaYIpVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "KagerouProject_977246_crop2608_1110259543",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidM+il3nSH6YQiMMK2/VN9uXbq8WPGjDxt+V/gxNKA9aZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidM+il3nSH6YQiMMK2/VN9uaKybByiK1JWR6LU/eQqLM5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -190,6 +173,26 @@
         "-1995107884",
         "1818726770",
         "-1822749470"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1300217755",
+      "hc_lt_id_sptag": "1135442718",
+      "id_img": "KagerouProject_967333_crop2608_163137365",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieEle3HcdU7n60lCQuXp4BsaWm//viFVViCtKxpaJxb4ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieEle3HcdU7n60lCQuXp4Bs65SENCVhZo70jrC7h3izE5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "-1220928906"
+      ],
+      "lt_id_sptag": [
+        "1728965817",
+        "-366401703",
+        "1574808216"
       ]
     },
     {
@@ -222,10 +225,10 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "2095367243",
-      "hc_lt_id_sptag": "-721202176",
-      "id_img": "KagerouProject_967335_crop2608_1158399754",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiczVvaraaeM2AdLMAczBmCo7AYdyKozffQr1zMgCr6L1pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiczVvaraaeM2AdLMAczBmCoh6sh/4wS/C8yK5NYN5XzMpVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-1643080234",
+      "id_img": "KagerouProject_967334_crop2608_803471670",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifckU208mF+ZBZXqWQkls72s6lhHtTre8ws9ACEQiycNZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifckU208mF+ZBZXqWQkls72QXUALKpriIoyVYXVfRaYIpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -240,9 +243,7 @@
         "2039769746",
         "1574808216",
         "-1995107884",
-        "-1235382358",
         "1818726770",
-        "1954999049",
         "-1822749470"
       ]
     }
@@ -273,6 +274,12 @@
       "name_cl_sptag": "Ayano Tateyama",
       "name_parent": "Anime",
       "total": 15
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "491824726",

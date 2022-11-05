@@ -6,9 +6,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-819364072",
+  "hc_lt_data_img": "1369003586",
   "hc_lt_nortag": "-1267210497",
-  "hc_lt_sptag": "-2017299039",
+  "hc_lt_sptag": "-393018082",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -19,8 +19,30 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "71345625",
+      "hc_lt_id_sptag": "-675864156",
+      "id_img": "DragonBallSuper_792686_crop2608_108584364",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifAQgwr8uXP5xp+3tIy+Ii+rJFX0I83pzsKUWQB44r81ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifAQgwr8uXP5xp+3tIy+Ii+Bpf4Fhnja6Y5A24JemHgPZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1400320448",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1407578284",
+        "-353024394",
+        "-1450260536",
+        "1097693819",
+        "2058364749"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1194446748",
-      "hc_lt_id_sptag": "1097457934",
+      "hc_lt_id_sptag": "-379282175",
       "id_img": "DragonBallSuper_836299_crop2608_-622815585",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidipHZbT0nk4ygfqEybQdmUuoZGLgFFZFj/x+XgMchYIZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidipHZbT0nk4ygfqEybQdmUDKpqwPnTHZeWAecUKfI0JJVy4706IhQgSYlgwrgVRHU=",
@@ -32,6 +54,7 @@
         "1400320448"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "-1407578284"
       ]
     },
@@ -39,9 +62,9 @@
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "71345625",
       "hc_lt_id_sptag": "-675864156",
-      "id_img": "DragonBallSuper_792686_crop2608_108584364",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifAQgwr8uXP5xp+3tIy+Ii+rJFX0I83pzsKUWQB44r81ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifAQgwr8uXP5xp+3tIy+Ii+Bpf4Fhnja6Y5A24JemHgPZVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "DragonBallSuper_792999_crop2608_-409299887",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwusiOnSgB4yjju8ubGB2qUZ7Z63ZrT1z2jQmdDU+ifZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwusiOnSgB4yjju8ubGB2q+X3RxU++ick4h6aMKToXFpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -79,28 +102,6 @@
         "1097693819",
         "2058364749"
       ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "71345625",
-      "hc_lt_id_sptag": "-675864156",
-      "id_img": "DragonBallSuper_792999_crop2608_-409299887",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwusiOnSgB4yjju8ubGB2qUZ7Z63ZrT1z2jQmdDU+ifZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwusiOnSgB4yjju8ubGB2q+X3RxU++ick4h6aMKToXFpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1400320448",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1407578284",
-        "-353024394",
-        "-1450260536",
-        "1097693819",
-        "2058364749"
-      ]
     }
   ],
   "lt_nortag": [
@@ -124,6 +125,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "1097693819",
       "name_cl_sptag": "Girls Eyes Silver",

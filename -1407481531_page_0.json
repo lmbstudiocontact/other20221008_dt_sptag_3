@@ -6,9 +6,9 @@
   "total_img": 7,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-2081400715",
+  "hc_lt_data_img": "41887039",
   "hc_lt_nortag": "-1837131557",
-  "hc_lt_sptag": "120099229",
+  "hc_lt_sptag": "-1739003025",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,28 +17,6 @@
     }
   ],
   "lt_data_img": [
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-93644333",
-      "hc_lt_id_sptag": "903907881",
-      "id_img": "MasamunekunsRevenge_776229_crop2608_-1370318374",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifEuBBUVpu3e5xQUyg2Vi6rcydaj8ABPADEwZ81jWpEKJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifEuBBUVpu3e5xQUyg2Vi6rr1do+zMRIJix7SrCeG6a1ZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-1481568493",
-        "1728965817"
-      ],
-      "lt_id_sptag": [
-        "177416588",
-        "-1407481531",
-        "-1307705100",
-        "-3839867",
-        "154734734"
-      ]
-    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-644873309",
@@ -77,11 +55,57 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-946915120",
+      "hc_lt_id_sptag": "299469185",
+      "id_img": "MasamunekunsRevenge_789866_crop2608_12532298",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifDnw9gaDVWQYr9DcGAhtUgkS9iu6S7X81WcFPSsTa4jJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifDnw9gaDVWQYr9DcGAhtUgKHwAmnPUM0A4+C1LoxBQOpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1481568493",
+        "-467032699"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "-1407481531",
+        "154734734"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-644873309",
+      "hc_lt_id_sptag": "-1987858916",
+      "id_img": "MasamunekunsRevenge_891117_crop2608_429537809",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieW0QlrupoXVduMOagk/9lWEDFw46soNAzB7SgyD6AskpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieW0QlrupoXVduMOagk/9lW13tUGf82+K9Gs7WFn658tJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1481568493",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1407481531",
+        "750914149",
+        "-1230434216",
+        "225830257",
+        "1755521698",
+        "-353024394",
+        "-1165766878",
+        "1078827483",
+        "154734734"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-93644333",
-      "hc_lt_id_sptag": "903907881",
-      "id_img": "MasamunekunsRevenge_789567_crop2608_1578995541",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieE9encsYYtI1YIavYBvgZxHrudB1sl89CMmS0A8vYwYpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieE9encsYYtI1YIavYBvgZx/oweaiuIa7KF7CmuL/I7kpVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "1307687385",
+      "id_img": "MasamunekunsRevenge_776229_crop2608_-1370318374",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifEuBBUVpu3e5xQUyg2Vi6rcydaj8ABPADEwZ81jWpEKJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifEuBBUVpu3e5xQUyg2Vi6rr1do+zMRIJix7SrCeG6a1ZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -92,8 +116,32 @@
       "lt_id_sptag": [
         "177416588",
         "-1407481531",
+        "1728965817",
         "-1307705100",
         "-3839867",
+        "154734734"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-644873309",
+      "hc_lt_id_sptag": "142705210",
+      "id_img": "MasamunekunsRevenge_789866_crop2608_-2125797701",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidNOIKEnFGz+W/8Aqh4lHtC/cvKWm7JiHqep+V1rUq9ypVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidNOIKEnFGz+W/8Aqh4lHtC1S6/U0NJqU2ytb89CvEO6pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1481568493",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1407481531",
+        "-353024394",
+        "376240968",
+        "-1450260536",
+        "1078827483",
         "154734734"
       ]
     },
@@ -125,69 +173,24 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-946915120",
-      "hc_lt_id_sptag": "-1166227692",
-      "id_img": "MasamunekunsRevenge_789866_crop2608_12532298",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifDnw9gaDVWQYr9DcGAhtUgkS9iu6S7X81WcFPSsTa4jJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifDnw9gaDVWQYr9DcGAhtUgKHwAmnPUM0A4+C1LoxBQOpVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "-93644333",
+      "hc_lt_id_sptag": "1307687385",
+      "id_img": "MasamunekunsRevenge_789567_crop2608_1578995541",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieE9encsYYtI1YIavYBvgZxHrudB1sl89CMmS0A8vYwYpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieE9encsYYtI1YIavYBvgZx/oweaiuIa7KF7CmuL/I7kpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
         "-1481568493",
-        "-467032699"
+        "1728965817"
       ],
       "lt_id_sptag": [
+        "177416588",
         "-1407481531",
-        "154734734"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-644873309",
-      "hc_lt_id_sptag": "142705210",
-      "id_img": "MasamunekunsRevenge_789866_crop2608_-2125797701",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidNOIKEnFGz+W/8Aqh4lHtC/cvKWm7JiHqep+V1rUq9ypVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidNOIKEnFGz+W/8Aqh4lHtC1S6/U0NJqU2ytb89CvEO6pVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-1481568493",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1407481531",
-        "-353024394",
-        "376240968",
-        "-1450260536",
-        "1078827483",
-        "154734734"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-644873309",
-      "hc_lt_id_sptag": "-1987858916",
-      "id_img": "MasamunekunsRevenge_891117_crop2608_429537809",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieW0QlrupoXVduMOagk/9lWEDFw46soNAzB7SgyD6AskpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieW0QlrupoXVduMOagk/9lW13tUGf82+K9Gs7WFn658tJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-1481568493",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1407481531",
-        "750914149",
-        "-1230434216",
-        "225830257",
-        "1755521698",
-        "-353024394",
-        "-1165766878",
-        "1078827483",
+        "1728965817",
+        "-1307705100",
+        "-3839867",
         "154734734"
       ]
     }
@@ -230,6 +233,18 @@
       "name_cl_sptag": "Blush",
       "name_parent": "Anime",
       "total": 893
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "-899599709",

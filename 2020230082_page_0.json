@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "304891777",
+  "hc_lt_data_img": "1813669345",
   "hc_lt_nortag": "1553405529",
-  "hc_lt_sptag": "844360950",
+  "hc_lt_sptag": "148721589",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,30 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1072534145",
-      "hc_lt_id_sptag": "1302432254",
-      "id_img": "Overlord_935156_crop2608_1542900863",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZLYKpzng8SiEXIE3RzaFVKgCkDRRvV/+G2j63fNV7G5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZLYKpzng8SiEXIE3RzaFVH2JSCzCbLPLSYewXwZsI9ZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "-558785534"
-      ],
-      "lt_id_sptag": [
-        "-453474698",
-        "1937562468",
-        "-414222762",
-        "-677747583",
-        "2020230082",
-        "397265019"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1072534145",
-      "hc_lt_id_sptag": "391866703",
+      "hc_lt_id_sptag": "344403260",
       "id_img": "Overlord_934016_crop2608_1698360079",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTvUWkxpmlIIdGMP++JMIiyPjjIKoRHVASnkphZTnpGZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTvUWkxpmlIIdGMP++JMIi6MJj8HQSqLXQlyHVK0q8wZVy4706IhQgSYlgwrgVRHU=",
@@ -55,12 +32,37 @@
         "-558785534"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "-453474698",
         "-1873117949",
         "-414222762",
         "-677747583",
         "2020230082",
         "-1176885370"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1072534145",
+      "hc_lt_id_sptag": "1254968811",
+      "id_img": "Overlord_935156_crop2608_1542900863",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZLYKpzng8SiEXIE3RzaFVKgCkDRRvV/+G2j63fNV7G5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZLYKpzng8SiEXIE3RzaFVH2JSCzCbLPLSYewXwZsI9ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-558785534"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "-453474698",
+        "1937562468",
+        "-414222762",
+        "-677747583",
+        "2020230082",
+        "397265019"
       ]
     }
   ],
@@ -84,6 +86,12 @@
       "name_cl_sptag": "Ainz Ooal Gown",
       "name_parent": "Anime",
       "total": 21
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "-1873117949",

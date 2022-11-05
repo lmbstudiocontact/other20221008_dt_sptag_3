@@ -19,28 +19,6 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1325612124",
-      "hc_lt_id_sptag": "-1290391771",
-      "id_img": "GranblueFantasy_950117_crop2608_-1560230144",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifXcXVO5WNNYMX8tNOMxdn5UQUDl7XhWcaXEPRSruGrD5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifXcXVO5WNNYMX8tNOMxdn5Hc0iVMNCKNrQAVxINaFjsJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1658477201",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1230434216",
-        "-353024394",
-        "376240968",
-        "-1450260536",
-        "-979740204"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1569078341",
       "hc_lt_id_sptag": "-2023977196",
       "id_img": "Crossover_922755_crop2608_1345143031",
@@ -66,6 +44,28 @@
         "491824726",
         "-979740204",
         "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1325612124",
+      "hc_lt_id_sptag": "-1290391771",
+      "id_img": "GranblueFantasy_950117_crop2608_-1560230144",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifXcXVO5WNNYMX8tNOMxdn5UQUDl7XhWcaXEPRSruGrD5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifXcXVO5WNNYMX8tNOMxdn5Hc0iVMNCKNrQAVxINaFjsJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1658477201",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "-353024394",
+        "376240968",
+        "-1450260536",
+        "-979740204"
       ]
     },
     {

@@ -6,9 +6,9 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1372573826",
+  "hc_lt_data_img": "414980870",
   "hc_lt_nortag": "-862218315",
-  "hc_lt_sptag": "256146591",
+  "hc_lt_sptag": "-485668882",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,26 +17,6 @@
     }
   ],
   "lt_data_img": [
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "551849679",
-      "hc_lt_id_sptag": "-1978157303",
-      "id_img": "Naruto_665369_crop2608_-165825055",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGuCLdvpTuVhRT7wmJT6SpaQuZzpwIVyBaRYSG8sSoW5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGuCLdvpTuVhRT7wmJT6Spi/js8wpWWnOJP9LTzG4+4ZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-273690518"
-      ],
-      "lt_id_sptag": [
-        "425775593",
-        "1390001312",
-        "497551384",
-        "-437830348"
-      ]
-    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "551849679",
@@ -60,8 +40,28 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "551849679",
+      "hc_lt_id_sptag": "-1978157303",
+      "id_img": "Naruto_665369_crop2608_-165825055",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGuCLdvpTuVhRT7wmJT6SpaQuZzpwIVyBaRYSG8sSoW5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGuCLdvpTuVhRT7wmJT6Spi/js8wpWWnOJP9LTzG4+4ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-273690518"
+      ],
+      "lt_id_sptag": [
+        "425775593",
+        "1390001312",
+        "497551384",
+        "-437830348"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-924890430",
-      "hc_lt_id_sptag": "-1774298450",
+      "hc_lt_id_sptag": "-1988872741",
       "id_img": "Naruto_106960_crop2608_499946844",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidUQ7KZ1hAS+ubRerPhxOqD2Xs8pj7k551+g6nWrESL+5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidUQ7KZ1hAS+ubRerPhxOqDdkLqsfkRXX5qX4KB/L9xsZVy4706IhQgSYlgwrgVRHU=",
@@ -73,6 +73,7 @@
         "-273690518"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "425775593",
         "636212748",
         "497551384",
@@ -100,6 +101,12 @@
       "name_cl_sptag": "A Naruto",
       "name_parent": "Anime",
       "total": 3
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "-437830348",

@@ -1,0 +1,718 @@
+{
+  "id_sptag": "1172028098",
+  "index_page": 0,
+  "name_cl_sptag": "Hyundai Concepts",
+  "name_parent": "Car",
+  "total_img": 26,
+  "total_page": 0,
+  "hc_lt_alb": "51650555",
+  "hc_lt_data_img": "-2017263347",
+  "hc_lt_nortag": "-879148945",
+  "hc_lt_sptag": "-1512407102",
+  "lt_alb": [
+    {
+      "id_alb": "67508",
+      "name_alb": "Car",
+      "total_img": 21900
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1512707144",
+      "hc_lt_id_sptag": "-387543335",
+      "id_img": "2016-Hyundai-Genesis-New-York-Concept-V5-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieNKntikFUjWui5PAWRAnLv+Ug4+8DcNR66BuKMG6fAO5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieNKntikFUjWui5PAWRAnLvot04LPIaq4t2lLFPmlkaeJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-625080575",
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "837633701",
+        "1773147073",
+        "-1947815716",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "-1020311341",
+      "id_img": "2016-Hyundai-RN30-Concept-V4-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidvaGP9iy56G+KOJ/iCvTv7Y+a6q366VzvP5/svssgAmpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidvaGP9iy56G+KOJ/iCvTv7sSjLMkElIB+TrC2tLDMZlJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "1034147206",
+        "1773147073",
+        "-1947815716",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "-387543335",
+      "id_img": "2016-Hyundai-RN30-Concept-V5-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVZrPHnODw3Nr2Fwec2fwMvnqcnn0yK/B/W2FyRr2wHZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVZrPHnODw3Nr2Fwec2fwMwBPHK+871FFPtgEnHIRJLpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "837633701",
+        "1773147073",
+        "-1947815716",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "1694993008",
+      "id_img": "2015-Hyundai-N-2025-Vision-Gran-Turismo-V2-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidg1NB2u6Vd1LUw95lon34NGK+1lkr9t6p4czp5enorE5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidg1NB2u6Vd1LUw95lon34NGRnKn4o81L9EhpXLvvnEv5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "714418671",
+        "-1948739237",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "-400660258",
+      "id_img": "2012-Hyundai-i-oniq-Concept-V3-1536_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCMzw9hWdGlFTOjr3nBSA1luvm/8I6+DU65gleCDTMrZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCMzw9hWdGlFTOjr3nBSA1yzdhdSpXGsLlSvKYdDCVopVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "-1951509800",
+        "-278169936",
+        "1773147073",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "2097244021",
+      "id_img": "2020-Hyundai-Prophecy-Concept-V8-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5FoJKM4/yjhqZGNpXG4YtJfCaFhO+gNlxUPCA2BiptJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5FoJKM4/yjhqZGNpXG4YtkwU08DP0ffeqdbT70stPapVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "1307371773",
+        "-1924727691",
+        "1773147073",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "1866809754",
+      "id_img": "2019-Hyundai-RM19-Concept-V3-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidgkaNiCHvYUQiYXsSvu4lzZgPMtGYUeiXuRDWxRaJiWpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidgkaNiCHvYUQiYXsSvu4lz3rHhZQ86WxRldy5USNmam5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "1773147073",
+        "-2005027998",
+        "-1945045153",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "-987384305",
+      "id_img": "2015-Hyundai-N-2025-Vision-Gran-Turismo-V3-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidtLRf9MjsjOlQNIR862BQMUg7r8QHVk3+EUD0ShqoEjpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidtLRf9MjsjOlQNIR862BQMdKxIN3rVSr0eoiEVgH1n9JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "517905166",
+        "-1948739237",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "1933489474",
+      "id_img": "2012-Hyundai-i-oniq-Concept-V4-1536_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid0opwwGFdBgCc09fJ7NU7bnk3gNpFcV6xtgRi36UKFuZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid0opwwGFdBgCc09fJ7NU7bJEPVi5NgTkrYi63bFUpWdJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "-474683441",
+        "-1951509800",
+        "1773147073",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "-738531639",
+      "id_img": "2019-Hyundai-RM19-Concept-V2-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifxg8yq/ra2jL/Exz782QwFBZvteRPeivnKNfWSHF+IyJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifxg8yq/ra2jL/Exz782QwF5LsiHzKP7ChQmPwvNOeprpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "-1808514493",
+        "1773147073",
+        "-1945045153",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1512707144",
+      "hc_lt_id_sptag": "-173537296",
+      "id_img": "2016-Hyundai-Genesis-New-York-Concept-V1-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiify/iDOZkvdOuGfvCXLORXyeA3tqd6JgO5y4TzVuCYjLJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiify/iDOZkvdOuGfvCXLORXyKcxj9VKOZrbkuhbZgXzmrJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-625080575",
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "1623687721",
+        "1773147073",
+        "-1947815716",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "1634965533",
+      "id_img": "2015-Hyundai-Santa-Cruz-Crossover-Truck-Concept-V1-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidlNZAopFBFDxdl1ArWtaFCIO9Xoh/S3HjRIYTbGhmmPpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidlNZAopFBFDxdl1ArWtaFCTZBWqj+iPxYptyOQbMZmEpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "910932176",
+        "-1948739237",
+        "1773147073",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "-1348733569",
+      "id_img": "2012-Hyundai-i-oniq-Concept-V1-1536_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidNrs9t9ZPJhWCSqD6Gt8UhAwjhT+XcJuBdciManDtHFJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidNrs9t9ZPJhWCSqD6Gt8Uhxoa1gkVy7+ydR65YUc4eUZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "114857074",
+        "-1951509800",
+        "1773147073",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "-173537296",
+      "id_img": "2016-Hyundai-RN30-Concept-V1-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/1fMxasPNt69PTTo14Zl9TAC5U0aeIPu9PNSCnyTlIJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/1fMxasPNt69PTTo14Zl9YYQJC5lQpS68OlYfuKGIs5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "1623687721",
+        "1773147073",
+        "-1947815716",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "1634965533",
+      "id_img": "2015-Hyundai-Vision-G-Concept-V1-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6Ki8qLa3oe6LKUEc/QtPM+QGryQjSml1A/J6aHlTUxpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6Ki8qLa3oe6LKUEc/QtPMFEy0MWbAdHXkC+5T+5JjGZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "910932176",
+        "-1948739237",
+        "1773147073",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "1429268361",
+      "id_img": "2019-Hyundai-RM19-Concept-V4-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiePHwSLCCgAw2EJeRen/o7gZis6c0JhtTboMO/985XZS5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiePHwSLCCgAw2EJeRen/o7gNdtWH3BfSaGxFkOF72T6zJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "2093425793",
+        "1773147073",
+        "-1945045153",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1512707144",
+      "hc_lt_id_sptag": "1288552914",
+      "id_img": "2016-Hyundai-Genesis-New-York-Concept-V3-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/pYG449P+y5+G4fsJuugOIUPPPNr9/FcHK4Wgf3KpGpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/pYG449P+y5+G4fsJuugOqgNVLc/jvx+7cgi8eT7k85Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-625080575",
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "1230660711",
+        "1773147073",
+        "-1947815716",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "-1089909723",
+      "id_img": "2016-Hyundai-RN30-Concept-V6-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifW8AtVOFnmx5yBZ2M6tJWIb815W+yQwVVAb898Wc4Hy5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifW8AtVOFnmx5yBZ2M6tJWI3q2p6Z4HUthth9su/xQ+W5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "641120196",
+        "1773147073",
+        "-1947815716",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "-1024693434",
+      "id_img": "2016-Hyundai-RN30-Concept-V2-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie3uss6RqCbMyhzEviUmGTjT7davQNg2yTCwv97bWuiK5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie3uss6RqCbMyhzEviUmGTj8F673SkuqGN06X6U9wCrWJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "1427174216",
+        "1773147073",
+        "-1947815716",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "2054547002",
+      "id_img": "2013-Hyundai-HND-9-Concept-V1-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZtN/deHNaY36ks7te1U7AD4crFTDQOCePvWyp2iEnipVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZtN/deHNaY36ks7te1U7A77DhlzJlYirJk2hbiSwXSZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "-1950586279",
+        "910932176",
+        "1773147073",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "-286638204",
+      "id_img": "2020-Hyundai-Prophecy-Concept-V4-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifAzJTxnngrTRStIlwH8e8VSOoQ7f4pno8RkqyP+VrBwpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifAzJTxnngrTRStIlwH8e8V3T0tr71W02WnFclKhimPupVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "-1924727691",
+        "2093425793",
+        "1773147073",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "1378259432",
+      "id_img": "2020-Hyundai-Prophecy-Concept-V1-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiffIHEi5hnokfQdVncPie1+yYnJBatjfFQCR5fEOAewkpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiffIHEi5hnokfQdVncPie1+iRZjTePhJf6haN2WX3KVmpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "-1612000988",
+        "-1924727691",
+        "1773147073",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "-2022716257",
+      "id_img": "2019-Hyundai-RM19-Concept-V1-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidlQhFK5Yu0PBKwUGEk/FjBst6sHraWyyKkn2CvNEUoS5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidlQhFK5Yu0PBKwUGEk/FjB7lVh+Eg/pYp4c10qLJt6IZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "-1612000988",
+        "1773147073",
+        "-1945045153",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "-1536289711",
+      "id_img": "2015-Hyundai-N-2025-Vision-Gran-Turismo-V1-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3vW6SuxF2+Lx1AZTjIhmMuysTSs7lK7S/Frn3s+pVF5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3vW6SuxF2+Lx1AZTjIhmMxhodsOx99ALeO4TD8OeRHpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "910932176",
+        "-1948739237",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "1886194402",
+      "id_img": "2018-Hyundai-Le-Fil-Rouge-Concept-V1-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic0dEbaM9LKEs+DsPOQWP8Ht4lOOr71iq1QI80uwLQATpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic0dEbaM9LKEs+DsPOQWP8HEEu713pKS8rsjjBQECXo+5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "1623687721",
+        "-1945968674",
+        "1773147073",
+        "1172028098"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "766563213",
+      "hc_lt_id_sptag": "1753073453",
+      "id_img": "2015-Hyundai-N-2025-Vision-Gran-Turismo-V4-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQlLAR4NSN3VitRxR+UegsIRSEc8tJ7KeRaH3PJeUZnpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQlLAR4NSN3VitRxR+Uegsen0RWr6aV3wTsft0b5Z3R5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "309855291"
+      ],
+      "lt_id_sptag": [
+        "-1948739237",
+        "321391661",
+        "1172028098"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-625080575",
+      "name_cl_nortag": "Genesis",
+      "total_img": 18,
+      "name_parent": "Car"
+    },
+    {
+      "id_nortag": "309855291",
+      "name_cl_nortag": "Hyundai",
+      "total_img": 207,
+      "name_parent": "Car"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1951509800",
+      "name_cl_sptag": "2012",
+      "name_parent": "Car",
+      "total": 513
+    },
+    {
+      "id_sptag": "-1950586279",
+      "name_cl_sptag": "2013",
+      "name_parent": "Car",
+      "total": 637
+    },
+    {
+      "id_sptag": "-1948739237",
+      "name_cl_sptag": "2015",
+      "name_parent": "Car",
+      "total": 885
+    },
+    {
+      "id_sptag": "-1947815716",
+      "name_cl_sptag": "2016",
+      "name_parent": "Car",
+      "total": 741
+    },
+    {
+      "id_sptag": "-1945968674",
+      "name_cl_sptag": "2018",
+      "name_parent": "Car",
+      "total": 588
+    },
+    {
+      "id_sptag": "-1945045153",
+      "name_cl_sptag": "2019",
+      "name_parent": "Car",
+      "total": 582
+    },
+    {
+      "id_sptag": "-1924727691",
+      "name_cl_sptag": "2020",
+      "name_parent": "Car",
+      "total": 476
+    },
+    {
+      "id_sptag": "1773147073",
+      "name_cl_sptag": "Concept",
+      "name_parent": "Car",
+      "total": 1117
+    },
+    {
+      "id_sptag": "1172028098",
+      "name_cl_sptag": "Hyundai Concepts",
+      "name_parent": "Car",
+      "total": 26
+    },
+    {
+      "id_sptag": "114857074",
+      "name_cl_sptag": "V1-1536",
+      "name_parent": "Car",
+      "total": 275
+    },
+    {
+      "id_sptag": "910932176",
+      "name_cl_sptag": "V1-1600",
+      "name_parent": "Car",
+      "total": 515
+    },
+    {
+      "id_sptag": "1623687721",
+      "name_cl_sptag": "V1-2000",
+      "name_parent": "Car",
+      "total": 384
+    },
+    {
+      "id_sptag": "-1612000988",
+      "name_cl_sptag": "V1-2160",
+      "name_parent": "Car",
+      "total": 188
+    },
+    {
+      "id_sptag": "714418671",
+      "name_cl_sptag": "V2-1600",
+      "name_parent": "Car",
+      "total": 274
+    },
+    {
+      "id_sptag": "1427174216",
+      "name_cl_sptag": "V2-2000",
+      "name_parent": "Car",
+      "total": 219
+    },
+    {
+      "id_sptag": "-1808514493",
+      "name_cl_sptag": "V2-2160",
+      "name_parent": "Car",
+      "total": 104
+    },
+    {
+      "id_sptag": "-278169936",
+      "name_cl_sptag": "V3-1536",
+      "name_parent": "Car",
+      "total": 199
+    },
+    {
+      "id_sptag": "517905166",
+      "name_cl_sptag": "V3-1600",
+      "name_parent": "Car",
+      "total": 381
+    },
+    {
+      "id_sptag": "1230660711",
+      "name_cl_sptag": "V3-2000",
+      "name_parent": "Car",
+      "total": 278
+    },
+    {
+      "id_sptag": "-2005027998",
+      "name_cl_sptag": "V3-2160",
+      "name_parent": "Car",
+      "total": 152
+    },
+    {
+      "id_sptag": "-474683441",
+      "name_cl_sptag": "V4-1536",
+      "name_parent": "Car",
+      "total": 160
+    },
+    {
+      "id_sptag": "321391661",
+      "name_cl_sptag": "V4-1600",
+      "name_parent": "Car",
+      "total": 248
+    },
+    {
+      "id_sptag": "1034147206",
+      "name_cl_sptag": "V4-2000",
+      "name_parent": "Car",
+      "total": 216
+    },
+    {
+      "id_sptag": "2093425793",
+      "name_cl_sptag": "V4-2160",
+      "name_parent": "Car",
+      "total": 129
+    },
+    {
+      "id_sptag": "837633701",
+      "name_cl_sptag": "V5-2000",
+      "name_parent": "Car",
+      "total": 229
+    },
+    {
+      "id_sptag": "641120196",
+      "name_cl_sptag": "V6-2000",
+      "name_parent": "Car",
+      "total": 143
+    },
+    {
+      "id_sptag": "1307371773",
+      "name_cl_sptag": "V8-2160",
+      "name_parent": "Car",
+      "total": 51
+    }
+  ]
+}

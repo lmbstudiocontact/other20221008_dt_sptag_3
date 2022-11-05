@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-909933511",
+  "hc_lt_data_img": "707815737",
   "hc_lt_nortag": "1666579863",
-  "hc_lt_sptag": "1158333823",
+  "hc_lt_sptag": "1649654754",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,25 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "64835941",
-      "hc_lt_id_sptag": "-404895170",
-      "id_img": "AjinDemiHuman_948909_crop2608_-147858476",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieI3SGRmecOxZ2wLK53fi/+S391Fpw/fv3HZLeXz7CqZJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieI3SGRmecOxZ2wLK53fi/+7/b2zOxUw23PxsAAUiGiSpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-2122815209",
-        "-467032699"
-      ],
-      "lt_id_sptag": [
-        "2090262404"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "64835941",
-      "hc_lt_id_sptag": "-404895170",
+      "hc_lt_id_sptag": "-1881635279",
       "id_img": "AjinDemiHuman_757661_crop2608_-1181288985",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidzKUMMBg33a+QeivIaQ17vDy8P9ZwzwoBaYHldih89/5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidzKUMMBg33a+QeivIaQ17v/yXlYRkz/HqbR7BS7+6J2pVy4706IhQgSYlgwrgVRHU=",
@@ -50,6 +32,26 @@
         "-467032699"
       ],
       "lt_id_sptag": [
+        "-467032699",
+        "2090262404"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "64835941",
+      "hc_lt_id_sptag": "-1881635279",
+      "id_img": "AjinDemiHuman_948909_crop2608_-147858476",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieI3SGRmecOxZ2wLK53fi/+S391Fpw/fv3HZLeXz7CqZJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieI3SGRmecOxZ2wLK53fi/+7/b2zOxUw23PxsAAUiGiSpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-2122815209",
+        "-467032699"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
         "2090262404"
       ]
     }
@@ -69,6 +71,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "2090262404",
       "name_cl_sptag": "Kei Nagai",

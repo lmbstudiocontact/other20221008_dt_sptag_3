@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "120520081",
+  "hc_lt_data_img": "-44140911",
   "hc_lt_nortag": "1575544453",
-  "hc_lt_sptag": "-1173726925",
+  "hc_lt_sptag": "450367586",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,26 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1254375004",
-      "hc_lt_id_sptag": "481365186",
-      "id_img": "SpiceandWolf_657659_crop2608_-799642376",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvRjoTk8kp/YmdtR/rQZZCh3H50c57c9B4oQlMoonvSpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvRjoTk8kp/YmdtR/rQZZCaSF0Z+eBKbEcpdlX5uKcbpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1728965817",
-        "-1555988698"
-      ],
-      "lt_id_sptag": [
-        "-1844923476",
-        "1323491843"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1254375004",
-      "hc_lt_id_sptag": "481365186",
+      "hc_lt_id_sptag": "-787164536",
       "id_img": "SpiceandWolf_177316_crop2608_1605021789",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicUSt6DF1eNW+E0lS6TPvqdzo1IhDZIfa/udrhNP5HMp5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicUSt6DF1eNW+E0lS6TPvqd64h6co8D1yzGqgNWFXpZTZVy4706IhQgSYlgwrgVRHU=",
@@ -52,6 +33,27 @@
       ],
       "lt_id_sptag": [
         "-1844923476",
+        "1728965817",
+        "1323491843"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1254375004",
+      "hc_lt_id_sptag": "-787164536",
+      "id_img": "SpiceandWolf_657659_crop2608_-799642376",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvRjoTk8kp/YmdtR/rQZZCh3H50c57c9B4oQlMoonvSpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvRjoTk8kp/YmdtR/rQZZCaSF0Z+eBKbEcpdlX5uKcbpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "-1555988698"
+      ],
+      "lt_id_sptag": [
+        "-1844923476",
+        "1728965817",
         "1323491843"
       ]
     }
@@ -71,6 +73,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
+    },
     {
       "id_sptag": "1323491843",
       "name_cl_sptag": "Holo Spice  Wolf",

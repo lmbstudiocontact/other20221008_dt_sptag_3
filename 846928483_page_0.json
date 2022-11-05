@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "833611487",
+  "hc_lt_data_img": "555478658",
   "hc_lt_nortag": "1928076838",
-  "hc_lt_sptag": "-563061776",
+  "hc_lt_sptag": "1061219181",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,24 +17,6 @@
     }
   ],
   "lt_data_img": [
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1368645968",
-      "hc_lt_id_sptag": "358938345",
-      "id_img": "BloodBlockadeBattlefront_955446_crop2608_-110173268",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieN8ceDXMZzrkLsuoOAZEWEl1MJyfA4Ovb31PqtsDojFpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieN8ceDXMZzrkLsuoOAZEWEqgzEeYxsMI4obU1r23cHApVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "1622629413"
-      ],
-      "lt_id_sptag": [
-        "846928483"
-      ]
-    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1161450724",
@@ -56,6 +38,25 @@
         "891993278",
         "256951417",
         "990039523"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1368645968",
+      "hc_lt_id_sptag": "-1117801764",
+      "id_img": "BloodBlockadeBattlefront_955446_crop2608_-110173268",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieN8ceDXMZzrkLsuoOAZEWEl1MJyfA4Ovb31PqtsDojFpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieN8ceDXMZzrkLsuoOAZEWEqgzEeYxsMI4obU1r23cHApVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "1622629413"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "846928483"
       ]
     }
   ],
@@ -80,6 +81,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "990039523",
       "name_cl_sptag": "Chain Sumeragi",
